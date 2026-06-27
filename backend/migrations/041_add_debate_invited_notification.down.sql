@@ -1,0 +1,1 @@
+-- Cannot remove enum values from notification_type.

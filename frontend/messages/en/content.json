@@ -1,0 +1,346 @@
+{
+  "about": {
+    "metaDescription": "Why Respond.im exists.",
+    "title": "About Respond.im",
+    "paragraphs": [
+      "Online discourse is broken.",
+      "Social media rewards speed over thought. Comment sections reward outrage over reason. Mob dynamics silence nuance. The loudest voice wins, not the best argument.",
+      "Respond.im is built on a simple idea: what if two people could debate a topic with structure, fairness, and time to think?",
+      "No crowds. No pile-ons. No character assassination. Just two sides, taking turns, building arguments.",
+      "We built Respond.im because we believe good disagreement is valuable. Not agreement — disagreement. The kind where you actually have to understand the other side to respond to it. The kind where changing your mind is a sign of strength, not weakness.",
+      "This is a space for ideas to compete on their merits. Nothing more. Nothing less."
+    ]
+  },
+  "aiStance": {
+    "metaDescription": "An honest conversation about AI and debate on Respond.im.",
+    "title": "Our Stance on AI",
+    "subtitle": "Our position on AI use in debates.",
+    "sections": {
+      "reality": {
+        "heading": "The reality",
+        "body": [
+          "People use AI tools. We can’t stop that. We don’t want to stop that. AI is a powerful tool for research, reasoning, and clarity."
+        ]
+      },
+      "encourage": {
+        "heading": "What we encourage",
+        "items": [
+          "Use AI to research a topic before debating it.",
+          "Use AI to check your logic for fallacies.",
+          "Use AI to clarify your writing.",
+          "Use AI to find counterarguments and prepare.",
+          "Use AI to think better."
+        ]
+      },
+      "purpose": {
+        "heading": "What defeats the purpose",
+        "body": [
+          "Pasting your opponent’s turn into ChatGPT and submitting whatever comes back. Not because AI is bad, but because you’re not debating. You’re not thinking. You’re not engaging with the human on the other side who actually spent time crafting their argument.",
+          "If you do this, you’ll know. Your opponent will know. The spectators will know. AI-generated responses that don’t engage with specific arguments are obvious to anyone reading carefully."
+        ]
+      },
+      "handle": {
+        "heading": "How we handle it",
+        "intro": "We don’t use AI detection tools. They’re unreliable and would create a surveillance atmosphere that contradicts everything we stand for.",
+        "transparencyTitle": "Transparency",
+        "transparencyBody": "Every turn has an optional checkbox: “I used AI assistance for this turn.” Using it honestly is respected, not punished.",
+        "accountabilityTitle": "Community accountability",
+        "accountabilityBody": "Users can report turns that appear to be mindless AI output. The community is the best detector — not algorithms.",
+        "enforcementTitle": "Progressive enforcement",
+        "enforcementBody": "If someone is repeatedly reported for submitting AI-generated turns that don’t engage with their opponent:",
+        "steps": [
+          "Private warning",
+          "Temporary restriction",
+          "Temporary suspension",
+          "Permanent ban"
+        ],
+        "note": "We don’t punish AI use. We address repeated refusal to engage genuinely."
+      },
+      "line": {
+        "heading": "The line",
+        "body": [
+          "The line isn’t “did you use AI?” The line is “did you think?”",
+          "A brilliantly argued turn that was researched with AI assistance is welcome. A generic, non-responsive turn that was copy-pasted from AI is not.",
+          "We trust you to know the difference."
+        ]
+      },
+      "matters": {
+        "heading": "Why this matters",
+        "body": [
+          "Respond.im exists because human reasoning matters. Not because humans are better than AI at generating text — they’re often not. But because the act of thinking through a disagreement, genuinely engaging with an opposing view, and articulating your reasoning is intrinsically valuable.",
+          "If AI does your thinking for you, you haven’t debated. You’ve outsourced the one thing that makes this platform meaningful."
+        ]
+      }
+    }
+  },
+  "fairness": {
+    "metaDescription": "How Respond.im is designed to keep debates fair.",
+    "title": "How We Keep Things Fair",
+    "subtitle": "Fairness isn’t a feature. It’s the architecture.",
+    "sections": {
+      "anonymous": {
+        "heading": "Anonymous during debate",
+        "body": "Both debaters appear as anonymous IDs (A#4821, B#7193). No names. No avatars. No ratings visible. No profile information. You can’t judge the argument by the person making it.\n\nAfter the debate ends, each side independently chooses whether to reveal their identity. One may reveal while the other stays anonymous. That’s their right."
+      },
+      "time": {
+        "heading": "Equal time",
+        "body": "Both sides get the same time window for each turn. Marathon (7 days), Standard (48 hours), Rapid (12 hours), or Blitz (2 hours). The clock is the same for both sides. No advantage for faster typists."
+      },
+      "downvotes": {
+        "heading": "No downvotes",
+        "body": "You can upvote a debate. You cannot downvote it. You cannot downvote individual turns. There is no mechanism for the crowd to punish an argument they disagree with. Arguments stand or fall on their own merits within the debate."
+      },
+      "comments": {
+        "heading": "No public comments during debate",
+        "body": "Spectators cannot comment while a debate is active. No heckling. No live chat. No crowd pressure. The two debaters have the floor. Everyone else watches.\n\nDiscussion opens after the debate concludes."
+      },
+      "replacement": {
+        "heading": "Replacement, not abandonment",
+        "body": "If a debater leaves, they resign — not concede. Their seat opens for someone else. The debate doesn’t die because one person got busy. And resignation doesn’t count as a loss, so there’s no penalty for honestly stepping away."
+      },
+      "rating": {
+        "heading": "Rating based on outcomes",
+        "body": "Your rating changes based on debate outcomes, not popularity. Winning against a higher-rated opponent earns more points. The system rewards skill in argumentation, not follower count."
+      }
+    }
+  },
+  "guidelines": {
+    "metaDescription": "Community guidelines for Respond.im. Short version: attack arguments, never people.",
+    "title": "Community Guidelines",
+    "subtitle": "Short version: attack arguments, never people.",
+    "allowedTitle": "Allowed",
+    "notAllowedTitle": "Not allowed",
+    "lineTitle": "The line",
+    "ok": "OK",
+    "no": "No",
+    "enforcementTitle": "Enforcement",
+    "reportingTitle": "Reporting",
+    "allowed": {
+      "opinions": "Strong opinions",
+      "disagreement": "Disagreement",
+      "provocative": "Provocative arguments",
+      "unpopular": "Unpopular positions",
+      "criticism": "Criticism of ideas, institutions, and public figures",
+      "sarcasm": "Sarcasm and rhetorical devices",
+      "ai": "AI-assisted research and writing (with transparency)"
+    },
+    "notAllowed": {
+      "attacks": "Personal attacks on your opponent",
+      "hate": "Hate speech targeting identity groups",
+      "threats": "Threats of any kind",
+      "sexual": "Sexual content",
+      "doxxing": "Sharing personal information (doxxing)",
+      "spam": "Spam or advertising",
+      "illegal": "Content that is illegal in the United States"
+    },
+    "examples": {
+      "logic": {
+        "text": "\"Your argument is logically incoherent\"",
+        "note": "Critique of reasoning."
+      },
+      "idiot": {
+        "text": "\"You’re an idiot\"",
+        "note": "Personal attack."
+      },
+      "policy": {
+        "text": "\"This policy would harm vulnerable communities\"",
+        "note": "Criticism of an idea."
+      },
+      "subhuman": {
+        "text": "\"People who believe this are subhuman\"",
+        "note": "Hate speech."
+      },
+      "evidence": {
+        "text": "\"The historical evidence contradicts your claim\"",
+        "note": "Factual challenge."
+      },
+      "threat": {
+        "text": "\"I know where you live\"",
+        "note": "Threat."
+      }
+    },
+    "enforcement": {
+      "p1": "All content is screened before publishing. Turns, comments, and debate topics pass through an automated filter that catches obvious violations.",
+      "p2": "Users can report content that the filter misses. If a turn or comment receives multiple reports, it may be temporarily hidden pending review.",
+      "p3": "Repeated violations result in:",
+      "steps": {
+        "warning": "Warning",
+        "restriction": "Temporary restriction",
+        "suspension": "Temporary suspension",
+        "ban": "Permanent ban"
+      },
+      "p4": "We aim to moderate as little as possible and as much as necessary. The 1v1 turn-based format naturally prevents most of the toxicity that plagues other platforms."
+    },
+    "reporting": "Click the flag icon on any turn or comment to report it. Reports are anonymous — the reported user doesn’t know who reported them. Please don’t abuse the report system."
+  },
+  "howItWorks": {
+    "metaDescription": "A clear explanation of how debates work on Respond.im.",
+    "title": "How It Works",
+    "steps": {
+      "start": {
+        "heading": "Start a debate",
+        "body": "Pick a topic. Write your opening argument. Choose a category and time mode. Your debate goes live."
+      },
+      "opponent": {
+        "heading": "Find an opponent",
+        "body": "Someone reads your opening argument and decides to take the other side. Browse open debates to find a topic you want to challenge."
+      },
+      "turns": {
+        "heading": "Take turns",
+        "body": "You argue back and forth. One turn at a time. No interruptions. No rapid-fire. Each turn can be up to 5,000 characters — enough for a real argument."
+      },
+      "anonymous": {
+        "heading": "Stay anonymous",
+        "body": "During the debate, both sides are identified only by anonymous IDs like A#4821 and B#7193. No names, no profiles, no bias. After the debate ends, you choose whether to reveal your identity."
+      },
+      "conclusion": {
+        "heading": "Reach a conclusion",
+        "items": {
+          "concede": {
+            "label": "Concede",
+            "description": "you admit the other side argued better"
+          },
+          "draw": {
+            "label": "Draw",
+            "description": "both sides agree neither won"
+          },
+          "resign": {
+            "label": "Resign",
+            "description": "you leave without conceding — someone else can take your seat"
+          },
+          "walkover": {
+            "label": "Walkover",
+            "description": "the other side doesn’t respond in time"
+          }
+        }
+      },
+      "discuss": {
+        "heading": "Discuss",
+        "body": "After the debate ends, a discussion thread opens. Spectators and participants can reflect on the arguments, analyze the reasoning, and continue the conversation."
+      },
+      "rating": {
+        "heading": "Build your rating",
+        "body": "Win debates, gain rating. Lose debates, lose rating. Your rating reflects your ability to construct and defend arguments — not your popularity."
+      }
+    }
+  },
+  "philosophy": {
+    "metaDescription": "The beliefs behind every design decision on Respond.im.",
+    "title": "What We Believe",
+    "subtitle": "These aren’t just values we list on a page. They’re principles we built into the product. Every feature exists because of one of these beliefs.",
+    "sections": {
+      "structure": {
+        "heading": "Structure enables freedom",
+        "body": [
+          "Counterintuitively, rules make better conversations. Turn-based debate removes the advantage of aggression and speed. Time limits prevent abandonment. Character minimums prevent low-effort responses. These constraints don’t limit expression — they elevate it.",
+          "A sonnet has 14 lines. That constraint is what makes it beautiful."
+        ]
+      },
+      "anonymity": {
+        "heading": "Anonymity enables honesty",
+        "body": [
+          "When you don’t know who you’re arguing with, you can’t attack their identity. You can’t dismiss them based on their profile. You have to engage with what they said, not who they are.",
+          "During a debate, both sides are anonymous. Arguments are judged on merit alone. After the debate, revealing your identity is your choice."
+        ]
+      },
+      "slow": {
+        "heading": "Slow is better than fast",
+        "body": [
+          "The best arguments aren’t written in 30 seconds. They’re considered, structured, and researched. Our turn-based system gives you hours or days to respond — not because we want slow debates, but because we want good ones."
+        ]
+      },
+      "fairness": {
+        "heading": "Fairness requires design",
+        "body": [
+          "Fairness doesn’t happen naturally in online spaces. It has to be engineered. Equal turn time. Anonymous identities. No downvotes. No mob voting. No algorithmic amplification of outrage. Every design choice in Respond.im is a choice about fairness."
+        ]
+      },
+      "endings": {
+        "heading": "Endings matter",
+        "body": [
+          "Most online arguments never end. They just fizzle, get buried, or devolve. On Respond.im, every debate has a clear conclusion: concession, draw, resignation, or walkover. This isn’t just structure — it’s respect for everyone’s time."
+        ]
+      },
+      "disagreement": {
+        "heading": "Disagreement is valuable",
+        "body": [
+          "We don’t optimize for consensus. We don’t reward agreement. We believe that two smart people who genuinely disagree and engage with each other’s reasoning create something more valuable than a thousand people nodding along."
+        ]
+      },
+      "opponent": {
+        "heading": "The opponent is not the enemy",
+        "body": [
+          "The person on the other side is doing you a favor. They’re giving you their time and thought. They’re helping you stress-test your ideas. Treat them accordingly."
+        ]
+      }
+    }
+  },
+  "transparency": {
+    "metaDescription": "How Respond.im operates, what data we collect, and how decisions are made.",
+    "title": "Transparency",
+    "subtitle": "We believe in showing our work.",
+    "collectTitle": "What we collect",
+    "dontCollectTitle": "What we don’t collect",
+    "collect": [
+      "Email address (for authentication and notifications)",
+      "Username (public, your choice)",
+      "Debate content (turns, comments, reflections)",
+      "Rating and debate history",
+      "Anonymous IDs (generated per debate)",
+      "Upvotes and follows",
+      "Reports you submit"
+    ],
+    "dontCollect": [
+      "Real name (never required)",
+      "Location",
+      "Phone number",
+      "Social media profiles",
+      "Browsing behavior outside this platform",
+      "Data from third-party trackers (we have none)"
+    ],
+    "moderationTitle": "Content moderation",
+    "moderation": [
+      "Every turn, comment, topic, and bio is screened by an automated content filter (OpenAI Moderation API) before publishing. This checks for hate speech, harassment, threats, sexual content, and illegal content.",
+      "We chose to be transparent about using this tool. It’s not perfect. It sometimes blocks legitimate content. If your content is blocked and you believe it shouldn’t have been, rephrase and try again. We’re working on making this better.",
+      "User reports are reviewed by a human. Not an algorithm. A human reads the reported content, reads the context, and makes a judgment."
+    ],
+    "ratingTitle": "Rating system",
+    "ratingIntro": "We use a standard ELO rating system (the same math used in chess). Starting rating: 1200. K-factor: 32.",
+    "ratingItems": {
+      "win": {
+        "label": "Win",
+        "note": "gain points (more points for beating higher-rated opponents)"
+      },
+      "loss": {
+        "label": "Loss",
+        "note": "lose points"
+      },
+      "draw": {
+        "label": "Draw",
+        "note": "small adjustment toward convergence"
+      },
+      "resignation": {
+        "label": "Resignation",
+        "note": "no change for either side"
+      }
+    },
+    "ratingOutro": "Your rating is public on your profile but hidden during active debates (anonymity rule).",
+    "openTitle": "Open questions",
+    "openIntro": "We don’t have everything figured out. Some things we’re still thinking about:",
+    "openQuestions": [
+      "How to handle debates on extremely sensitive topics",
+      "Whether to add community moderation (trusted users who help review reports)",
+      "How to measure debate quality beyond win/loss",
+      "How to build a sustainable business without compromising the experience"
+    ],
+    "openOutro": "We’d rather be honest about uncertainty than pretend we have all the answers.",
+    "feedbackTitle": "Feedback",
+    "feedback": "This platform is built for people who think carefully. If you have thoughts on how we can do better, we want to hear them."
+  },
+  "notFound": {
+    "title": "This page doesn't exist.",
+    "description": "It may have moved, or the link might be wrong.",
+    "browseTags": "Browse tags",
+    "seeLiveDebates": "See live debates"
+  }
+}

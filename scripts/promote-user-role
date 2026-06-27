@@ -1,0 +1,79 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+if [[ -z "${DATABASE_URL:-}" ]]; then
+  echo "DATABASE_URL is required" >&2
+  exit 1
+fi
+
+if [[ $# -ne 2 ]]; then
+  echo "Usage: scripts/promote-user-role <username-or-email> <role>" >&2
+  echo "Roles: mod|moderator|admin|user" >&2
+  exit 1
+fi
+
+identifier="$1"
+input_role="${2,,}"
+
+sql_escape() {
+  local value="$1"
+  printf "%s" "${value//\'/\'\'}"
+}
+
+case "$input_role" in
+  mod|moderator)
+    role="moderator"
+    ;;
+  admin)
+    role="admin"
+    ;;
+  user)
+    role="user"
+    ;;
+  *)
+    echo "Invalid role '$2'. Use mod|moderator|admin|user." >&2
+    exit 1
+    ;;
+esac
+
+escaped_identifier="$(sql_escape "$identifier")"
+matches_output=$(psql "$DATABASE_URL" -v ON_ERROR_STOP=1 -AtF $'\t' -c "
+  SELECT id::text, username, email, role::text
+  FROM users
+  WHERE lower(username) = lower('$escaped_identifier')
+     OR lower(email) = lower('$escaped_identifier')
+")
+
+matches=()
+if [[ -n "$matches_output" ]]; then
+  mapfile -t matches <<< "$matches_output"
+fi
+
+if [[ ${#matches[@]} -eq 0 ]]; then
+  echo "No user found for '$identifier'." >&2
+  exit 1
+fi
+
+if [[ ${#matches[@]} -gt 1 ]]; then
+  echo "Multiple users matched '$identifier'. Use a unique username or email." >&2
+  printf '%s\n' "${matches[@]}" >&2
+  exit 1
+fi
+
+IFS=$'\t' read -r user_id username email old_role <<< "${matches[0]}"
+
+if [[ "$old_role" == "$role" ]]; then
+  echo "No change needed: $username <$email> is already '$role'."
+  exit 0
+fi
+
+updated_row=$(psql "$DATABASE_URL" -v ON_ERROR_STOP=1 -AtF $'\t' -c "
+  UPDATE users
+  SET role = '$role'::user_role,
+      updated_at = now()
+  WHERE id = '$user_id'::uuid
+  RETURNING username, email, role::text
+")
+
+IFS=$'\t' read -r updated_username updated_email updated_role <<< "$updated_row"
+echo "Updated $updated_username <$updated_email> role: $old_role -> $updated_role"

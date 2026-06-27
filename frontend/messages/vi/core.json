@@ -1,0 +1,94 @@
+{
+  "site": {
+    "tagline": "Bất đồng cho đúng cách.",
+    "description": "Tranh luận 1-1 có cấu trúc, ẩn danh và theo lượt. Trình bày lập luận. Lắng nghe phía bên kia. Thay đổi góc nhìn của bạn, hoặc của họ."
+  },
+  "common": {
+    "accept": "Chấp nhận",
+    "backToHome": "Về trang chủ",
+    "close": "Đóng",
+    "decline": "Từ chối",
+    "join": "Tham gia",
+    "loading": "Đang tải...",
+    "saving": "Đang lưu...",
+    "signIn": "Đăng nhập",
+    "signOut": "Đăng xuất",
+    "settings": "Cài đặt",
+    "profile": "Hồ sơ",
+    "viewProfile": "Xem hồ sơ",
+    "all": "Tất cả",
+    "applyFilters": "Áp dụng bộ lọc",
+    "clearAll": "Xóa tất cả",
+    "clearSelection": "Xóa lựa chọn",
+    "filter": "Lọc",
+    "follow": "Theo dõi",
+    "following": "Đang theo dõi",
+    "loadingDebates": "Đang tải tranh luận...",
+    "loadingTags": "Đang tải thẻ...",
+    "openSettings": "Mở cài đặt",
+    "report": "Báo cáo",
+    "send": "Gửi",
+    "sending": "Đang gửi…",
+    "save": "Lưu",
+    "saveLanguage": "Lưu ngôn ngữ",
+    "saved": "Đã lưu.",
+    "tryAgain": "Đã xảy ra lỗi. Hãy thử lại.",
+    "cancel": "Hủy",
+    "tags": "Thẻ"
+  },
+  "shell": {
+    "accountBanned": "Tài khoản của bạn đã bị cấm vĩnh viễn. Các hành động tham gia đã bị vô hiệu hóa.",
+    "accountSuspended": "Tài khoản của bạn đang bị tạm đình chỉ. Các hành động tham gia bị vô hiệu hóa cho đến khi kiểm duyệt khôi phục quyền truy cập.",
+    "closeMenu": "Đóng menu",
+    "collapseSidebar": "Thu gọn thanh bên",
+    "createDebate": "Tạo tranh luận",
+    "expandSidebar": "Mở rộng thanh bên",
+    "nav": {
+      "challenges": "Thách đấu",
+      "debates": "Tranh luận",
+      "explore": "Khám phá",
+      "home": "Trang chủ",
+      "moderation": "Kiểm duyệt",
+      "notifications": "Thông báo",
+      "search": "Tìm kiếm",
+      "tags": "Thẻ",
+      "users": "Người dùng"
+    },
+    "signedIn": "Đã đăng nhập",
+    "theme": {
+      "darkMode": "Chế độ tối",
+      "followSystem": "Theo hệ thống",
+      "lightMode": "Chế độ sáng",
+      "switchToDark": "Chuyển sang tối",
+      "switchToLight": "Chuyển sang sáng",
+      "switchToSystem": "Chuyển sang hệ thống",
+      "toggleLabel": "{current}. {next}."
+    }
+  },
+  "footer": {
+    "platform": "Nền tảng",
+    "browseDebates": "Duyệt tranh luận",
+    "startDebate": "Bắt đầu tranh luận",
+    "howItWorks": "Cách hoạt động",
+    "community": "Cộng đồng",
+    "guidelines": "Nguyên tắc",
+    "aiStance": "Quan điểm về AI",
+    "fairness": "Công bằng",
+    "company": "Công ty",
+    "about": "Giới thiệu",
+    "philosophy": "Triết lý",
+    "transparency": "Minh bạch"
+  },
+  "notifications": {
+    "title": "Thông báo",
+    "markAllRead": "Đánh dấu tất cả đã đọc",
+    "loading": "Đang tải thông báo…",
+    "empty": "Chưa có thông báo.",
+    "markAsRead": "Đánh dấu đã đọc",
+    "errors": {
+      "acceptChallenge": "Không thể chấp nhận thách đấu.",
+      "declineChallenge": "Không thể từ chối thách đấu.",
+      "joinDebate": "Không thể tham gia tranh luận này."
+    }
+  }
+}

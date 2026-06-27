@@ -1,0 +1,8 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+if [ ! -d .pgdata ]; then
+  initdb -D .pgdata
+fi
+
+pg_ctl -D .pgdata -l .pgdata/logfile -o "-k /tmp" start

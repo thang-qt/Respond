@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 80 80" width="80" height="80">
+  <!-- Bubble 1: bottom-left, filled -->
+  <rect x="4" y="28" width="46" height="36" rx="9" fill="#37322f"/>
+  <polygon points="14,64 7,76 26,64" fill="#37322f"/>
+
+  <!-- Bubble 2: top-right, outlined -->
+  <rect x="30" y="4" width="46" height="36" rx="9" fill="none" stroke="#37322f" stroke-width="2.5"/>
+  <polygon points="62,40 69,52 50,40" fill="none" stroke="#37322f" stroke-width="2.5" stroke-linejoin="round"/>
+</svg>

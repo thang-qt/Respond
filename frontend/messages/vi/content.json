@@ -1,0 +1,346 @@
+{
+  "about": {
+    "metaDescription": "Vì sao Respond.im tồn tại.",
+    "title": "Về Respond.im",
+    "paragraphs": [
+      "Diễn ngôn trực tuyến đang hỏng.",
+      "Mạng xã hội thưởng cho tốc độ hơn suy nghĩ. Phần bình luận thưởng cho phẫn nộ hơn lý trí. Động lực đám đông làm im lặng sự tinh tế. Tiếng nói to nhất thắng, không phải lập luận tốt nhất.",
+      "Respond.im được xây dựng trên một ý tưởng đơn giản: nếu hai người có thể tranh luận một chủ đề với cấu trúc, công bằng và thời gian để suy nghĩ thì sao?",
+      "Không đám đông. Không hội đồng. Không bôi nhọ nhân cách. Chỉ hai phía, luân phiên theo lượt, xây dựng lập luận.",
+      "Chúng tôi xây Respond.im vì tin rằng bất đồng tốt là có giá trị. Không phải đồng ý — mà là bất đồng. Kiểu bất đồng buộc bạn thật sự hiểu phía bên kia để phản hồi. Kiểu mà đổi ý là dấu hiệu của sức mạnh, không phải yếu đuối.",
+      "Đây là không gian để ý tưởng cạnh tranh bằng giá trị của chúng. Không hơn. Không kém."
+    ]
+  },
+  "aiStance": {
+    "metaDescription": "Một cuộc trò chuyện thẳng thắn về AI và tranh luận trên Respond.im.",
+    "title": "Quan điểm của chúng tôi về AI",
+    "subtitle": "Lập trường của chúng tôi về việc dùng AI trong tranh luận.",
+    "sections": {
+      "reality": {
+        "heading": "Thực tế",
+        "body": [
+          "Mọi người dùng công cụ AI. Chúng tôi không thể ngăn điều đó. Chúng tôi cũng không muốn ngăn. AI là công cụ mạnh cho nghiên cứu, suy luận và sự rõ ràng."
+        ]
+      },
+      "encourage": {
+        "heading": "Điều chúng tôi khuyến khích",
+        "items": [
+          "Dùng AI để nghiên cứu chủ đề trước khi tranh luận.",
+          "Dùng AI để kiểm tra ngụy biện trong logic của bạn.",
+          "Dùng AI để làm rõ cách viết.",
+          "Dùng AI để tìm phản biện và chuẩn bị.",
+          "Dùng AI để suy nghĩ tốt hơn."
+        ]
+      },
+      "purpose": {
+        "heading": "Điều làm mất mục đích",
+        "body": [
+          "Dán lượt của đối thủ vào ChatGPT rồi gửi bất cứ thứ gì trả về. Không phải vì AI xấu, mà vì bạn không đang tranh luận. Bạn không đang suy nghĩ. Bạn không đang tương tác với con người phía bên kia, người đã thật sự dành thời gian xây dựng lập luận.",
+          "Nếu bạn làm vậy, bạn sẽ biết. Đối thủ sẽ biết. Người xem sẽ biết. Phản hồi do AI tạo mà không tương tác với lập luận cụ thể rất dễ nhận ra với người đọc kỹ."
+        ]
+      },
+      "handle": {
+        "heading": "Cách chúng tôi xử lý",
+        "intro": "Chúng tôi không dùng công cụ phát hiện AI. Chúng không đáng tin và sẽ tạo bầu không khí giám sát trái với mọi điều chúng tôi đại diện.",
+        "transparencyTitle": "Minh bạch",
+        "transparencyBody": "Mỗi lượt có một ô chọn tùy chọn: “Tôi đã dùng hỗ trợ AI cho lượt này.” Dùng nó trung thực được tôn trọng, không bị phạt.",
+        "accountabilityTitle": "Trách nhiệm cộng đồng",
+        "accountabilityBody": "Người dùng có thể báo cáo các lượt có vẻ là đầu ra AI máy móc. Cộng đồng là bộ phát hiện tốt nhất — không phải thuật toán.",
+        "enforcementTitle": "Thực thi tăng dần",
+        "enforcementBody": "Nếu ai đó liên tục bị báo cáo vì gửi lượt do AI tạo mà không tương tác với đối thủ:",
+        "steps": [
+          "Cảnh báo riêng",
+          "Hạn chế tạm thời",
+          "Đình chỉ tạm thời",
+          "Cấm vĩnh viễn"
+        ],
+        "note": "Chúng tôi không phạt việc dùng AI. Chúng tôi xử lý sự từ chối lặp lại trong việc tương tác chân thành."
+      },
+      "line": {
+        "heading": "Ranh giới",
+        "body": [
+          "Ranh giới không phải là “bạn có dùng AI không?” Ranh giới là “bạn có suy nghĩ không?”",
+          "Một lượt lập luận xuất sắc được nghiên cứu với hỗ trợ AI được chào đón. Một lượt chung chung, không phản hồi cụ thể, sao chép từ AI thì không.",
+          "Chúng tôi tin bạn biết sự khác biệt."
+        ]
+      },
+      "matters": {
+        "heading": "Vì sao điều này quan trọng",
+        "body": [
+          "Respond.im tồn tại vì suy luận của con người quan trọng. Không phải vì con người giỏi hơn AI trong tạo văn bản — thường là không. Mà vì hành động suy nghĩ qua bất đồng, thật sự tương tác với quan điểm đối lập, và diễn đạt lý lẽ của bạn có giá trị nội tại.",
+          "Nếu AI suy nghĩ thay bạn, bạn chưa tranh luận. Bạn đã thuê ngoài điều duy nhất làm nền tảng này có ý nghĩa."
+        ]
+      }
+    }
+  },
+  "fairness": {
+    "metaDescription": "Cách Respond.im được thiết kế để giữ tranh luận công bằng.",
+    "title": "Cách chúng tôi giữ mọi thứ công bằng",
+    "subtitle": "Công bằng không phải một tính năng. Nó là kiến trúc.",
+    "sections": {
+      "anonymous": {
+        "heading": "Ẩn danh trong tranh luận",
+        "body": "Cả hai người tranh luận xuất hiện dưới dạng ID ẩn danh (A#4821, B#7193). Không tên. Không ảnh đại diện. Không hiển thị điểm. Không thông tin hồ sơ. Bạn không thể đánh giá lập luận dựa trên người đưa ra lập luận.\n\nSau khi tranh luận kết thúc, mỗi bên tự quyết định có tiết lộ danh tính hay không. Một bên có thể tiết lộ trong khi bên kia vẫn ẩn danh. Đó là quyền của họ."
+      },
+      "time": {
+        "heading": "Thời gian ngang nhau",
+        "body": "Cả hai bên có cùng khoảng thời gian cho mỗi lượt. Marathon (7 ngày), Tiêu chuẩn (48 giờ), Nhanh (12 giờ), hoặc Chớp nhoáng (2 giờ). Đồng hồ giống nhau cho cả hai bên. Không ai có lợi thế vì gõ nhanh hơn."
+      },
+      "downvotes": {
+        "heading": "Không có phản đối",
+        "body": "Bạn có thể ủng hộ một tranh luận. Bạn không thể phản đối nó. Bạn không thể phản đối từng lượt. Không có cơ chế để đám đông trừng phạt một lập luận mà họ không đồng ý. Lập luận đứng vững hay thất bại bằng chính giá trị của nó trong tranh luận."
+      },
+      "comments": {
+        "heading": "Không bình luận công khai khi đang tranh luận",
+        "body": "Người xem không thể bình luận khi tranh luận đang diễn ra. Không la ó. Không chat trực tiếp. Không áp lực đám đông. Hai người tranh luận có toàn quyền phát biểu. Mọi người khác theo dõi.\n\nThảo luận mở sau khi tranh luận kết thúc."
+      },
+      "replacement": {
+        "heading": "Thay thế, không bỏ rơi",
+        "body": "Nếu một người tranh luận rời đi, họ từ nhiệm — không phải nhượng bộ. Ghế của họ mở cho người khác. Tranh luận không chết chỉ vì một người bận. Và từ nhiệm không tính là thua, nên không có hình phạt cho việc thành thật rời đi."
+      },
+      "rating": {
+        "heading": "Điểm dựa trên kết quả",
+        "body": "Điểm của bạn thay đổi dựa trên kết quả tranh luận, không phải độ nổi tiếng. Thắng đối thủ có điểm cao hơn đem lại nhiều điểm hơn. Hệ thống thưởng kỹ năng lập luận, không phải số người theo dõi."
+      }
+    }
+  },
+  "guidelines": {
+    "metaDescription": "Nguyên tắc cộng đồng của Respond.im. Bản ngắn: công kích lập luận, không công kích con người.",
+    "title": "Nguyên tắc cộng đồng",
+    "subtitle": "Bản ngắn: công kích lập luận, không công kích con người.",
+    "allowedTitle": "Được phép",
+    "notAllowedTitle": "Không được phép",
+    "lineTitle": "Ranh giới",
+    "ok": "OK",
+    "no": "Không",
+    "enforcementTitle": "Thực thi",
+    "reportingTitle": "Báo cáo",
+    "allowed": {
+      "opinions": "Quan điểm mạnh mẽ",
+      "disagreement": "Bất đồng",
+      "provocative": "Lập luận khiêu khích",
+      "unpopular": "Lập trường không phổ biến",
+      "criticism": "Phê bình ý tưởng, tổ chức và nhân vật công chúng",
+      "sarcasm": "Châm biếm và thủ pháp tu từ",
+      "ai": "Nghiên cứu và viết có hỗ trợ AI (minh bạch)"
+    },
+    "notAllowed": {
+      "attacks": "Công kích cá nhân đối thủ",
+      "hate": "Ngôn từ thù ghét nhắm vào nhóm danh tính",
+      "threats": "Đe dọa dưới bất kỳ hình thức nào",
+      "sexual": "Nội dung tình dục",
+      "doxxing": "Chia sẻ thông tin cá nhân (doxxing)",
+      "spam": "Spam hoặc quảng cáo",
+      "illegal": "Nội dung bất hợp pháp tại Hoa Kỳ"
+    },
+    "examples": {
+      "logic": {
+        "text": "\"Lập luận của bạn không nhất quán về logic\"",
+        "note": "Phê bình cách lập luận."
+      },
+      "idiot": {
+        "text": "\"Bạn là đồ ngốc\"",
+        "note": "Công kích cá nhân."
+      },
+      "policy": {
+        "text": "\"Chính sách này sẽ gây hại cho các cộng đồng dễ tổn thương\"",
+        "note": "Phê bình một ý tưởng."
+      },
+      "subhuman": {
+        "text": "\"Những người tin điều này không đáng làm người\"",
+        "note": "Ngôn từ thù ghét."
+      },
+      "evidence": {
+        "text": "\"Bằng chứng lịch sử mâu thuẫn với tuyên bố của bạn\"",
+        "note": "Thách thức về sự thật."
+      },
+      "threat": {
+        "text": "\"Tôi biết bạn sống ở đâu\"",
+        "note": "Đe dọa."
+      }
+    },
+    "enforcement": {
+      "p1": "Tất cả nội dung được sàng lọc trước khi xuất bản. Lượt tranh luận, bình luận và chủ đề tranh luận đi qua bộ lọc tự động để phát hiện vi phạm rõ ràng.",
+      "p2": "Người dùng có thể báo cáo nội dung mà bộ lọc bỏ sót. Nếu một lượt hoặc bình luận nhận nhiều báo cáo, nội dung đó có thể tạm thời bị ẩn để chờ xem xét.",
+      "p3": "Vi phạm lặp lại dẫn đến:",
+      "steps": {
+        "warning": "Cảnh báo",
+        "restriction": "Hạn chế tạm thời",
+        "suspension": "Đình chỉ tạm thời",
+        "ban": "Cấm vĩnh viễn"
+      },
+      "p4": "Chúng tôi cố gắng kiểm duyệt ít nhất có thể và nhiều nhất khi cần thiết. Định dạng 1v1 theo lượt tự nhiên ngăn chặn phần lớn độc hại thường thấy trên các nền tảng khác."
+    },
+    "reporting": "Nhấp vào biểu tượng cờ trên bất kỳ lượt hoặc bình luận nào để báo cáo. Báo cáo là ẩn danh — người bị báo cáo không biết ai đã báo cáo họ. Vui lòng không lạm dụng hệ thống báo cáo."
+  },
+  "howItWorks": {
+    "metaDescription": "Giải thích rõ cách tranh luận hoạt động trên Respond.im.",
+    "title": "Cách hoạt động",
+    "steps": {
+      "start": {
+        "heading": "Bắt đầu tranh luận",
+        "body": "Chọn một chủ đề. Viết lập luận mở đầu. Chọn thẻ và chế độ thời gian. Tranh luận của bạn sẽ lên sóng."
+      },
+      "opponent": {
+        "heading": "Tìm đối thủ",
+        "body": "Ai đó đọc lập luận mở đầu của bạn và quyết định đứng về phía còn lại. Duyệt các tranh luận đang mở để tìm chủ đề bạn muốn thách đấu."
+      },
+      "turns": {
+        "heading": "Luân phiên theo lượt",
+        "body": "Hai bên tranh luận qua lại. Mỗi lần một lượt. Không ngắt lời. Không bắn nhanh. Mỗi lượt có thể dài tối đa 5.000 ký tự — đủ cho một lập luận thực sự."
+      },
+      "anonymous": {
+        "heading": "Giữ ẩn danh",
+        "body": "Trong tranh luận, cả hai bên chỉ được nhận diện bằng ID ẩn danh như A#4821 và B#7193. Không tên, không hồ sơ, không thiên kiến. Sau khi tranh luận kết thúc, bạn chọn có tiết lộ danh tính hay không."
+      },
+      "conclusion": {
+        "heading": "Đi đến kết luận",
+        "items": {
+          "concede": {
+            "label": "Nhượng bộ",
+            "description": "bạn thừa nhận phía kia lập luận tốt hơn"
+          },
+          "draw": {
+            "label": "Hòa",
+            "description": "cả hai bên đồng ý không ai thắng"
+          },
+          "resign": {
+            "label": "Từ nhiệm",
+            "description": "bạn rời đi mà không nhượng bộ — người khác có thể thay chỗ bạn"
+          },
+          "walkover": {
+            "label": "Bỏ cuộc",
+            "description": "phía kia không phản hồi kịp thời"
+          }
+        }
+      },
+      "discuss": {
+        "heading": "Thảo luận",
+        "body": "Sau khi tranh luận kết thúc, luồng thảo luận mở ra. Người xem và người tham gia có thể phản tư về các lập luận, phân tích lý lẽ và tiếp tục cuộc trò chuyện."
+      },
+      "rating": {
+        "heading": "Xây dựng điểm của bạn",
+        "body": "Thắng tranh luận, tăng điểm. Thua tranh luận, giảm điểm. Điểm phản ánh khả năng xây dựng và bảo vệ lập luận — không phải độ nổi tiếng."
+      }
+    }
+  },
+  "philosophy": {
+    "metaDescription": "Những niềm tin phía sau mọi quyết định thiết kế trên Respond.im.",
+    "title": "Điều chúng tôi tin",
+    "subtitle": "Đây không chỉ là các giá trị được liệt kê trên một trang. Chúng là nguyên tắc được xây vào sản phẩm. Mọi tính năng tồn tại vì một trong những niềm tin này.",
+    "sections": {
+      "structure": {
+        "heading": "Cấu trúc tạo ra tự do",
+        "body": [
+          "Nghe có vẻ ngược đời, nhưng quy tắc tạo ra cuộc trò chuyện tốt hơn. Tranh luận theo lượt loại bỏ lợi thế của sự hung hăng và tốc độ. Giới hạn thời gian ngăn bỏ cuộc. Tối thiểu ký tự ngăn phản hồi hời hợt. Những ràng buộc này không hạn chế biểu đạt — chúng nâng nó lên.",
+          "Một bài sonnet có 14 dòng. Chính ràng buộc đó làm nó đẹp."
+        ]
+      },
+      "anonymity": {
+        "heading": "Ẩn danh tạo ra trung thực",
+        "body": [
+          "Khi bạn không biết mình đang tranh luận với ai, bạn không thể công kích danh tính của họ. Bạn không thể gạt bỏ họ dựa trên hồ sơ. Bạn phải tương tác với điều họ nói, không phải họ là ai.",
+          "Trong tranh luận, cả hai bên đều ẩn danh. Lập luận được đánh giá chỉ dựa trên giá trị. Sau tranh luận, tiết lộ danh tính là lựa chọn của bạn."
+        ]
+      },
+      "slow": {
+        "heading": "Chậm tốt hơn nhanh",
+        "body": [
+          "Những lập luận tốt nhất không được viết trong 30 giây. Chúng được cân nhắc, có cấu trúc và được nghiên cứu. Hệ thống theo lượt cho bạn nhiều giờ hoặc nhiều ngày để phản hồi — không phải vì chúng tôi muốn tranh luận chậm, mà vì chúng tôi muốn tranh luận tốt."
+        ]
+      },
+      "fairness": {
+        "heading": "Công bằng cần thiết kế",
+        "body": [
+          "Công bằng không tự nhiên xảy ra trong không gian trực tuyến. Nó phải được thiết kế. Thời gian lượt ngang nhau. Danh tính ẩn danh. Không phản đối. Không bỏ phiếu đám đông. Không thuật toán khuếch đại phẫn nộ. Mỗi lựa chọn thiết kế trong Respond.im là một lựa chọn về công bằng."
+        ]
+      },
+      "endings": {
+        "heading": "Kết thúc quan trọng",
+        "body": [
+          "Hầu hết tranh cãi trực tuyến không bao giờ kết thúc. Chúng chỉ tàn dần, bị chôn vùi, hoặc suy thoái. Trên Respond.im, mọi tranh luận đều có kết luận rõ ràng: nhượng bộ, hòa, từ nhiệm, hoặc bỏ cuộc. Đây không chỉ là cấu trúc — đó là sự tôn trọng thời gian của mọi người."
+        ]
+      },
+      "disagreement": {
+        "heading": "Bất đồng có giá trị",
+        "body": [
+          "Chúng tôi không tối ưu cho đồng thuận. Chúng tôi không thưởng cho đồng ý. Chúng tôi tin rằng hai người thông minh thực sự bất đồng và tương tác với lý lẽ của nhau tạo ra điều giá trị hơn một nghìn người gật đầu theo."
+        ]
+      },
+      "opponent": {
+        "heading": "Đối thủ không phải kẻ thù",
+        "body": [
+          "Người ở phía bên kia đang giúp bạn. Họ cho bạn thời gian và suy nghĩ của họ. Họ giúp bạn kiểm thử ý tưởng của mình. Hãy đối xử với họ tương xứng."
+        ]
+      }
+    }
+  },
+  "transparency": {
+    "metaDescription": "Cách Respond.im vận hành, dữ liệu chúng tôi thu thập và cách quyết định được đưa ra.",
+    "title": "Minh bạch",
+    "subtitle": "Chúng tôi tin vào việc cho thấy cách mình làm.",
+    "collectTitle": "Những gì chúng tôi thu thập",
+    "dontCollectTitle": "Những gì chúng tôi không thu thập",
+    "collect": [
+      "Địa chỉ email (để xác thực và thông báo)",
+      "Tên người dùng (công khai, do bạn chọn)",
+      "Nội dung tranh luận (lượt, bình luận, phản tư)",
+      "Điểm và lịch sử tranh luận",
+      "ID ẩn danh (tạo theo từng tranh luận)",
+      "Ủng hộ và theo dõi",
+      "Báo cáo bạn gửi"
+    ],
+    "dontCollect": [
+      "Tên thật (không bao giờ bắt buộc)",
+      "Vị trí",
+      "Số điện thoại",
+      "Hồ sơ mạng xã hội",
+      "Hành vi duyệt web bên ngoài nền tảng này",
+      "Dữ liệu từ trình theo dõi bên thứ ba (chúng tôi không có)"
+    ],
+    "moderationTitle": "Kiểm duyệt nội dung",
+    "moderation": [
+      "Mọi lượt, bình luận, chủ đề và tiểu sử được sàng lọc bởi bộ lọc nội dung tự động (OpenAI Moderation API) trước khi xuất bản. Bộ lọc kiểm tra ngôn từ thù ghét, quấy rối, đe dọa, nội dung tình dục và nội dung bất hợp pháp.",
+      "Chúng tôi chọn minh bạch về việc dùng công cụ này. Nó không hoàn hảo. Đôi khi nó chặn nội dung hợp lệ. Nếu nội dung của bạn bị chặn và bạn tin rằng không nên như vậy, hãy diễn đạt lại và thử lại. Chúng tôi đang cải thiện điều này.",
+      "Báo cáo của người dùng được con người xem xét. Không phải thuật toán. Một người đọc nội dung bị báo cáo, đọc bối cảnh và đưa ra phán đoán."
+    ],
+    "ratingTitle": "Hệ thống điểm",
+    "ratingIntro": "Chúng tôi dùng hệ thống điểm ELO tiêu chuẩn (cùng phép toán dùng trong cờ vua). Điểm khởi đầu: 1200. K-factor: 32.",
+    "ratingItems": {
+      "win": {
+        "label": "Thắng",
+        "note": "tăng điểm (nhiều điểm hơn khi thắng đối thủ điểm cao hơn)"
+      },
+      "loss": {
+        "label": "Thua",
+        "note": "mất điểm"
+      },
+      "draw": {
+        "label": "Hòa",
+        "note": "điều chỉnh nhỏ hướng về hội tụ"
+      },
+      "resignation": {
+        "label": "Từ nhiệm",
+        "note": "không đổi điểm cho cả hai bên"
+      }
+    },
+    "ratingOutro": "Điểm của bạn công khai trên hồ sơ nhưng bị ẩn trong tranh luận đang diễn ra (quy tắc ẩn danh).",
+    "openTitle": "Câu hỏi mở",
+    "openIntro": "Chúng tôi chưa giải quyết được mọi thứ. Một số điều chúng tôi vẫn đang suy nghĩ:",
+    "openQuestions": [
+      "Cách xử lý tranh luận về các chủ đề cực kỳ nhạy cảm",
+      "Có nên thêm kiểm duyệt cộng đồng (người dùng đáng tin hỗ trợ xem xét báo cáo) hay không",
+      "Cách đo chất lượng tranh luận ngoài thắng/thua",
+      "Cách xây dựng mô hình bền vững mà không làm tổn hại trải nghiệm"
+    ],
+    "openOutro": "Chúng tôi thà trung thực về sự chưa chắc chắn hơn là giả vờ có mọi câu trả lời.",
+    "feedbackTitle": "Phản hồi",
+    "feedback": "Nền tảng này được xây cho những người suy nghĩ cẩn thận. Nếu bạn có ý kiến về cách chúng tôi có thể làm tốt hơn, chúng tôi muốn nghe."
+  },
+  "notFound": {
+    "title": "Trang này không tồn tại.",
+    "description": "Trang có thể đã được chuyển, hoặc liên kết bị sai.",
+    "browseTags": "Duyệt thẻ",
+    "seeLiveDebates": "Xem tranh luận đang diễn ra"
+  }
+}

@@ -1,0 +1,269 @@
+{
+  "home": {
+    "tabs": {
+      "trending": "Xu hướng",
+      "new": "Mới",
+      "live": "Đang diễn ra",
+      "open": "Đang mở"
+    },
+    "verify": {
+      "body": "Xác minh email để bảo vệ khôi phục tài khoản và nhận thông báo email.",
+      "resend": "Gửi lại email xác minh",
+      "accepted": "Đã nhận yêu cầu gửi email xác minh. Có thể mất một phút để gửi.",
+      "alreadyVerified": "Email đã được xác minh.",
+      "failed": "Không thể gửi lại email xác minh."
+    },
+    "onboarding": {
+      "body": "Theo dõi thẻ để cá nhân hóa trang chủ, hoặc vào Khám phá để tìm thêm tranh luận.",
+      "explore": "Khám phá",
+      "followTags": "Theo dõi thẻ"
+    },
+    "dailyPrompt": {
+      "label": "Gợi ý hôm nay",
+      "topic": "Có nên bắt buộc bỏ phiếu trong các nền dân chủ?",
+      "tag": "Chính trị",
+      "time": "Tiêu chuẩn (48 giờ)",
+      "cta": "Tranh luận →"
+    },
+    "empty": {
+      "loadError": "Không thể tải tranh luận",
+      "noMatches": "Không có tranh luận phù hợp bộ lọc này",
+      "tryDifferent": "Hãy thử tab hoặc thẻ khác.",
+      "showing": "Đang hiển thị {count} tranh luận",
+      "showingOf": "Đang hiển thị {count} trên {total} tranh luận"
+    }
+  },
+  "search": {
+    "placeholder": "Tìm tranh luận, người dùng, thẻ",
+    "tabs": {
+      "all": "Tất cả",
+      "debates": "Tranh luận",
+      "users": "Người dùng",
+      "tags": "Thẻ"
+    },
+    "sort": {
+      "relevance": "Liên quan",
+      "new": "Mới"
+    },
+    "introTitle": "Tìm kiếm cộng đồng",
+    "introHint": "Thử từ khóa, thẻ hoặc tên người dùng.",
+    "searching": "Đang tìm kiếm...",
+    "loadError": "Không thể tải kết quả tìm kiếm",
+    "section": {
+      "users": "Người dùng",
+      "tags": "Thẻ",
+      "debates": "Tranh luận",
+      "more": "Xem thêm"
+    },
+    "rating": "Điểm {rating}",
+    "empty": "Không có kết quả phù hợp cho {typeLabel}",
+    "emptyHint": "Hãy thử tìm kiếm khác.",
+    "results": "{count} kết quả",
+    "typeLabel": {
+      "debates": "tranh luận",
+      "users": "người dùng",
+      "tags": "thẻ",
+      "results": "kết quả"
+    }
+  },
+  "explore": {
+    "sort": {
+      "hot": "Nổi bật",
+      "rising": "Đang lên",
+      "new": "Mới",
+      "random": "Ngẫu nhiên"
+    },
+    "clearAll": "Xóa tất cả",
+    "loadError": "Không thể tải tranh luận khám phá",
+    "noMatches": "Không có tranh luận phù hợp bộ lọc này",
+    "tryDifferent": "Hãy thử cách sắp xếp hoặc bộ lọc khác."
+  },
+  "exploreUsers": {
+    "loading": "Đang tải người dùng...",
+    "loadError": "Không thể tải người dùng",
+    "empty": "Chưa có người phù hợp",
+    "emptyHint": "Theo dõi thẻ để cải thiện gợi ý.",
+    "stats": "Điểm {rating} • {wins}T {losses}B {draws}H • {debates} tranh luận",
+    "showing": "Đang hiển thị {count} người dùng",
+    "showingOf": "Đang hiển thị {count} trên {total} người dùng"
+  },
+  "tags": {
+    "searchPlaceholder": "Tìm thẻ theo tên hoặc slug",
+    "loadError": "Không thể tải thẻ",
+    "noMatch": "Không có thẻ phù hợp tìm kiếm.",
+    "none": "Hiện chưa có thẻ.",
+    "titleFallback": "Thẻ",
+    "followLimit": "Bạn đã đạt giới hạn 30 thẻ.",
+    "noDebates": "Chưa có tranh luận",
+    "checkBack": "Hãy quay lại sau để xem các cặp tranh luận mới."
+  },
+  "tagFilter": {
+    "title": "Lọc thẻ"
+  },
+  "challenges": {
+    "tabs": {
+      "open": "Người sẵn sàng thách đấu",
+      "mine": "Thử thách của tôi"
+    },
+    "filter": "Lọc",
+    "standing": "Thử thách thường trực",
+    "inbox": "Hộp đến",
+    "outbox": "Hộp đi",
+    "statuses": {
+      "pending": "đang chờ",
+      "accepted": "đã chấp nhận",
+      "declined": "đã từ chối",
+      "expired": "đã hết hạn",
+      "all": "tất cả",
+      "waiting": "đang chờ"
+    },
+    "clearAll": "Xóa tất cả",
+    "loading": "Đang tải thử thách...",
+    "empty": "Chưa có thử thách trong chế độ xem này.",
+    "loadError": "Không thể tải thử thách.",
+    "respondError": "Không thể phản hồi thử thách.",
+    "from": "Từ @{username}",
+    "to": "Đến @{username}",
+    "turns": "{count} lượt",
+    "sent": "Đã gửi {time}",
+    "expires": "Hết hạn {time}",
+    "working": "Đang xử lý...",
+    "accept": "Chấp nhận",
+    "decline": "Từ chối",
+    "loadMore": "Tải thêm",
+    "filterTitle": "Lọc người thách đấu"
+  },
+  "lobbyTab": {
+    "errors": {
+      "loadMy": "Không thể tải mục thách đấu của bạn.",
+      "loadBrowse": "Không thể tải sảnh thách đấu.",
+      "verify": "Cần xác minh email để đăng thách đấu thường trực.",
+      "save": "Không thể lưu mục thách đấu.",
+      "remove": "Không thể xóa mục thách đấu."
+    },
+    "saved": "Đã lưu mục thách đấu.",
+    "removed": "Đã xóa mục thách đấu.",
+    "yourTitle": "Thử thách thường trực của bạn",
+    "postTitle": "Đăng thử thách thường trực",
+    "description": "Báo hiệu rằng bạn sẵn sàng nhận thử thách mà không chiếm trang.",
+    "standing": "Thử thách thường trực",
+    "lastUpdated": "Cập nhật lần cuối {time}",
+    "hide": "Ẩn",
+    "edit": "Sửa",
+    "open": "Mở",
+    "loading": "Đang tải…",
+    "prompt": "Bạn đang tìm điều gì?",
+    "optional": "(tùy chọn)",
+    "placeholder": "VD: Muốn tranh luận đạo đức AI từ góc nhìn hoài nghi, hoặc tranh luận chính sách khí hậu theo hướng ủng hộ hạt nhân…",
+    "topics": "Chủ đề",
+    "upTo": "(tối đa 15)",
+    "clearAll": "Xóa tất cả",
+    "saving": "Đang lưu…",
+    "update": "Cập nhật",
+    "publish": "Đăng",
+    "removing": "Đang xóa…",
+    "remove": "Xóa",
+    "signIn": "Đăng nhập",
+    "signInSuffix": "để đăng thử thách thường trực.",
+    "loadingChallengers": "Đang tải người thách đấu…",
+    "emptyFiltered": "Chưa ai đăng thử thách thường trực cho các chủ đề này.",
+    "empty": "Chưa ai đăng thử thách thường trực. Hãy là người đầu tiên!",
+    "loadMore": "Tải thêm"
+  },
+  "lobbyEntryCard": {
+    "record": "{wins}T · {losses}B · {draws}H",
+    "ratingRecord": "{rating} điểm · {record}",
+    "openAnyTopic": "Sẵn sàng với mọi chủ đề.",
+    "edit": "Sửa",
+    "challenge": "Thử thách"
+  },
+  "create": {
+    "errors": {
+      "preload": "Không thể tải trước chi tiết tranh luận nguồn. Bạn vẫn có thể điền thủ công.",
+      "topic": "Chủ đề phải dài 10–200 ký tự.",
+      "tags": "Chọn 1 đến 3 thẻ để tiếp tục.",
+      "opening": "Lập luận mở đầu phải dài {min}–{max} ký tự.",
+      "aiNote": "Ghi chú AI tối đa {max} ký tự.",
+      "limit": "Bạn đã có 5 tranh luận đang hoạt động.",
+      "userNotFound": "Không tìm thấy người dùng được thử thách.",
+      "notParticipant": "Chỉ người tham gia tranh luận đã kết thúc mới có thể bắt đầu tái đấu.",
+      "notFinished": "Chỉ có thể tái đấu sau khi tranh luận kết thúc.",
+      "generic": "Đã xảy ra lỗi. Hãy thử lại."
+    },
+    "aiChips": {
+      "brainstorm": {
+        "label": "Động não",
+        "snippet": "Đã động não các phản điểm."
+      },
+      "outline": {
+        "label": "Dàn ý",
+        "snippet": "Đã lập dàn ý cấu trúc lập luận."
+      },
+      "rewrite": {
+        "label": "Viết lại",
+        "snippet": "Đã viết lại để rõ hơn."
+      },
+      "grammar": {
+        "label": "Ngữ pháp",
+        "snippet": "Đã sửa ngữ pháp và phong cách."
+      },
+      "sources": {
+        "label": "Nguồn",
+        "snippet": "Đã gợi ý hướng tìm nguồn."
+      }
+    },
+    "title": {
+      "rechallenge": "Bắt đầu tái đấu",
+      "challenge": "Thử thách @{username}",
+      "new": "Bắt đầu tranh luận mới"
+    },
+    "subtitle": {
+      "rechallenge": "Thiết lập tái đấu được điền sẵn từ tranh luận đã kết thúc.",
+      "challenge": "Tranh luận này chỉ mở theo lời mời cho đến khi họ chấp nhận.",
+      "setup": "Đặt câu hỏi, thiết lập điều khoản và viết lập luận đáng để có người phản hồi.",
+      "opening": "Đây là Lượt 1. Hãy viết điều gì đó đáng được phản hồi."
+    },
+    "banners": {
+      "challenge": "Bạn đang tạo thử thách chỉ theo lời mời cho @{username}. Trong lúc chờ, tranh luận này riêng tư giữa hai bạn.",
+      "prefill": "Chế độ tái đấu đang bật. Các trường thiết lập được điền sẵn từ tranh luận đã kết thúc.",
+      "newTopic": "Chế độ thử thách chủ đề mới đang bật. Đối thủ của bạn được cố định từ tranh luận đã kết thúc.",
+      "limit": "Bạn đã đạt giới hạn 5 tranh luận đang hoạt động. Hãy kết thúc hoặc bỏ một tranh luận để tạo tranh luận khác.",
+      "verify": "Cần xác minh email để tạo tranh luận. Vào Cài đặt để xác minh email."
+    },
+    "steps": {
+      "setup": "Thiết lập",
+      "opening": "Lập luận mở đầu"
+    },
+    "setup": {
+      "title": "Thiết lập tranh luận",
+      "sideA": "Bên A",
+      "topic": "Chủ đề",
+      "topicPlaceholder": "VD: X luôn tốt hơn Y, hay bối cảnh mới quyết định câu trả lời?",
+      "topicHelp": "10–200 ký tự. Rõ ràng, có thể tranh luận và trung lập.",
+      "tags": "Thẻ",
+      "selected": "{count}/3 đã chọn",
+      "tagLimit": "Đã chọn 3 thẻ",
+      "searchTags": "Tìm thẻ...",
+      "noTags": "Không có thẻ phù hợp.",
+      "timeMode": "Chế độ thời gian",
+      "turnLimit": "Giới hạn lượt",
+      "turns": "{count} lượt",
+      "context": "Điều cần biết",
+      "contextPlaceholder": "Đặt điều khoản cho người thách đấu -- nhịp độ bạn muốn, cách bạn định nghĩa thuật ngữ chính và bối cảnh họ cần biết trước khi tham gia.",
+      "contextHelp": "Hiển thị ở phần đầu làm bối cảnh cho cả hai người tranh luận.",
+      "next": "Tiếp"
+    },
+    "opening": {
+      "topic": "Chủ đề",
+      "title": "Lập luận mở đầu",
+      "placeholder": "Quan điểm phổ biến là X rõ ràng tốt, nhưng điều này bỏ sót một điểm quan trọng. Bằng chứng *thực tế* lại chỉ theo hướng khác -- khi nhìn vào dữ liệu, hiệu ứng hoặc không đáng kể hoặc đảo chiều trong hầu hết bối cảnh.\n\nNgười phản đối sẽ nói Y, nhưng **lập luận đó giả định Z**, điều chưa đứng vững. Như một nghiên cứu viết:\n\n> \"Tương quan biến mất hoàn toàn khi kiểm soát biến nhiễu W.\" [1]\n\nLập luận mạnh hơn là...\n\n[1] https://example.com/source",
+      "help": "{min}–{max} ký tự. Bắt đầu bằng luận điểm, rồi giải thích lý do. Nguồn được khuyến khích — văn bản thường là đủ.",
+      "aiAssisted": "Tôi đã dùng hỗ trợ AI cho lượt này",
+      "aiNotePlaceholder": "Mô tả ngắn gọn AI đã hỗ trợ như thế nào — ví dụ gợi ý nguồn, tái cấu trúc đoạn văn.",
+      "back": "Quay lại thiết lập",
+      "creating": "Đang tạo...",
+      "sendChallenge": "Gửi thử thách",
+      "createDebate": "Tạo tranh luận"
+    }
+  }
+}

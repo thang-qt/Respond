@@ -1,0 +1,1 @@
+-- No-op: removing enum values is unsafe without full type recreation.

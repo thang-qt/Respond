@@ -1,0 +1,94 @@
+{
+  "site": {
+    "tagline": "Disagree well.",
+    "description": "Structured, anonymous, turn-based debates. Make your case. Hear the other side. Change your mind, or theirs."
+  },
+  "common": {
+    "accept": "Accept",
+    "backToHome": "Back to home",
+    "close": "Close",
+    "decline": "Decline",
+    "join": "Join",
+    "loading": "Loading...",
+    "saving": "Saving...",
+    "signIn": "Sign in",
+    "signOut": "Sign out",
+    "settings": "Settings",
+    "profile": "Profile",
+    "viewProfile": "View profile",
+    "all": "All",
+    "applyFilters": "Apply filters",
+    "clearAll": "Clear all",
+    "clearSelection": "Clear selection",
+    "filter": "Filter",
+    "follow": "Follow",
+    "following": "Following",
+    "loadingDebates": "Loading debates...",
+    "loadingTags": "Loading tags...",
+    "openSettings": "Open settings",
+    "report": "Report",
+    "send": "Send",
+    "sending": "Sending…",
+    "save": "Save",
+    "saveLanguage": "Save language",
+    "saved": "Saved.",
+    "tryAgain": "Something went wrong. Try again.",
+    "cancel": "Cancel",
+    "tags": "Tags"
+  },
+  "shell": {
+    "accountBanned": "Your account is permanently banned. Participation actions are disabled.",
+    "accountSuspended": "Your account is temporarily suspended. Participation actions are disabled until moderation restores access.",
+    "closeMenu": "Close menu",
+    "collapseSidebar": "Collapse sidebar",
+    "createDebate": "Create debate",
+    "expandSidebar": "Expand sidebar",
+    "nav": {
+      "challenges": "Challenges",
+      "debates": "Debates",
+      "explore": "Explore",
+      "home": "Home",
+      "moderation": "Moderation",
+      "notifications": "Notifications",
+      "search": "Search",
+      "tags": "Tags",
+      "users": "Users"
+    },
+    "signedIn": "Signed in",
+    "theme": {
+      "darkMode": "Dark mode",
+      "followSystem": "Follow system",
+      "lightMode": "Light mode",
+      "switchToDark": "Switch to dark",
+      "switchToLight": "Switch to light",
+      "switchToSystem": "Switch to system",
+      "toggleLabel": "{current}. {next}."
+    }
+  },
+  "footer": {
+    "platform": "Platform",
+    "browseDebates": "Browse Debates",
+    "startDebate": "Start a debate",
+    "howItWorks": "How it works",
+    "community": "Community",
+    "guidelines": "Guidelines",
+    "aiStance": "AI Stance",
+    "fairness": "Fairness",
+    "company": "Company",
+    "about": "About",
+    "philosophy": "Philosophy",
+    "transparency": "Transparency"
+  },
+  "notifications": {
+    "title": "Notifications",
+    "markAllRead": "Mark all read",
+    "loading": "Loading notifications…",
+    "empty": "No notifications yet.",
+    "markAsRead": "Mark as read",
+    "errors": {
+      "acceptChallenge": "Could not accept challenge.",
+      "declineChallenge": "Could not decline challenge.",
+      "joinDebate": "Could not join this debate."
+    }
+  }
+}

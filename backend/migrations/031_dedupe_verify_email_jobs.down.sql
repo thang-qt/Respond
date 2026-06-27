@@ -1,0 +1,1 @@
+DROP INDEX IF EXISTS idx_email_jobs_verify_pending_unique;

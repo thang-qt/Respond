@@ -1,0 +1,269 @@
+{
+  "home": {
+    "tabs": {
+      "trending": "Trending",
+      "new": "New",
+      "live": "Live",
+      "open": "Open"
+    },
+    "verify": {
+      "body": "Verify your email to secure account recovery and email alerts.",
+      "resend": "Resend verification email",
+      "accepted": "Verification email request accepted. Delivery may take a minute.",
+      "alreadyVerified": "Email is already verified.",
+      "failed": "Failed to resend verification email."
+    },
+    "onboarding": {
+      "body": "Follow tags to personalize your home feed, or jump to Explore to discover more debates.",
+      "explore": "Explore",
+      "followTags": "Follow tags"
+    },
+    "dailyPrompt": {
+      "label": "Daily Prompt",
+      "topic": "Should voting be mandatory in democracies?",
+      "tag": "Politics",
+      "time": "Standard (48h)",
+      "cta": "Debate this →"
+    },
+    "empty": {
+      "loadError": "Couldn’t load debates",
+      "noMatches": "No debates match this filter",
+      "tryDifferent": "Try a different tab or tag.",
+      "showing": "Showing {count} {count, plural, one {debate} other {debates}}",
+      "showingOf": "Showing {count} {count, plural, one {debate} other {debates}} of {total}"
+    }
+  },
+  "search": {
+    "placeholder": "Search debates, users, tags",
+    "tabs": {
+      "all": "All",
+      "debates": "Debates",
+      "users": "Users",
+      "tags": "Tags"
+    },
+    "sort": {
+      "relevance": "Relevance",
+      "new": "New"
+    },
+    "introTitle": "Search the community",
+    "introHint": "Try keywords, tags, or usernames.",
+    "searching": "Searching...",
+    "loadError": "Couldn’t load search results",
+    "section": {
+      "users": "Users",
+      "tags": "Tags",
+      "debates": "Debates",
+      "more": "More"
+    },
+    "rating": "Rating {rating}",
+    "empty": "Nothing matched for {typeLabel}",
+    "emptyHint": "Try a different search.",
+    "results": "{count, plural, one {# result} other {# results}}",
+    "typeLabel": {
+      "debates": "debates",
+      "users": "users",
+      "tags": "tags",
+      "results": "results"
+    }
+  },
+  "explore": {
+    "sort": {
+      "hot": "Hot",
+      "rising": "Rising",
+      "new": "New",
+      "random": "Random"
+    },
+    "clearAll": "Clear all",
+    "loadError": "Couldn’t load explore debates",
+    "noMatches": "No debates match this filter",
+    "tryDifferent": "Try a different sort or filter."
+  },
+  "exploreUsers": {
+    "loading": "Loading people...",
+    "loadError": "Couldn’t load people",
+    "empty": "No relevant people yet",
+    "emptyHint": "Follow tags to improve recommendations.",
+    "stats": "Rating {rating} • {wins}W {losses}L {draws}D • {debates, plural, one {# debate} other {# debates}}",
+    "showing": "Showing {count, plural, one {# user} other {# users}}",
+    "showingOf": "Showing {count, plural, one {# user} other {# users}} of {total}"
+  },
+  "tags": {
+    "searchPlaceholder": "Search tags by name or slug",
+    "loadError": "Couldn’t load tags",
+    "noMatch": "No tags match your search.",
+    "none": "No tags available right now.",
+    "titleFallback": "Tag",
+    "followLimit": "You have reached the 30-tag limit.",
+    "noDebates": "No debates yet",
+    "checkBack": "Check back soon for new matchups."
+  },
+  "tagFilter": {
+    "title": "Filter tags"
+  },
+  "challenges": {
+    "tabs": {
+      "open": "Open challengers",
+      "mine": "My challenges"
+    },
+    "filter": "Filter",
+    "standing": "Standing challenge",
+    "inbox": "Inbox",
+    "outbox": "Outbox",
+    "statuses": {
+      "pending": "pending",
+      "accepted": "accepted",
+      "declined": "declined",
+      "expired": "expired",
+      "all": "all",
+      "waiting": "pending"
+    },
+    "clearAll": "Clear all",
+    "loading": "Loading challenges...",
+    "empty": "No challenges in this view yet.",
+    "loadError": "Failed to load challenges.",
+    "respondError": "Could not respond to challenge.",
+    "from": "From @{username}",
+    "to": "To @{username}",
+    "turns": "{count} turns",
+    "sent": "Sent {time}",
+    "expires": "Expires {time}",
+    "working": "Working...",
+    "accept": "Accept",
+    "decline": "Decline",
+    "loadMore": "Load more",
+    "filterTitle": "Filter challengers"
+  },
+  "lobbyTab": {
+    "errors": {
+      "loadMy": "Could not load your lobby entry.",
+      "loadBrowse": "Could not load lobby.",
+      "verify": "Email verification required to publish a lobby entry.",
+      "save": "Could not save lobby entry.",
+      "remove": "Could not remove lobby entry."
+    },
+    "saved": "Lobby entry saved.",
+    "removed": "Lobby entry removed.",
+    "yourTitle": "Your Standing Challenge",
+    "postTitle": "Post a Standing Challenge",
+    "description": "Signal that you’re open to challenges without taking over the page.",
+    "standing": "Standing challenge",
+    "lastUpdated": "Last updated {time}",
+    "hide": "Hide",
+    "edit": "Edit",
+    "open": "Open",
+    "loading": "Loading…",
+    "prompt": "What are you looking for?",
+    "optional": "(optional)",
+    "placeholder": "e.g. Looking to debate AI ethics from a skeptical angle, or argue climate policy from a pro-nuclear perspective…",
+    "topics": "Topics",
+    "upTo": "(up to 15)",
+    "clearAll": "Clear all",
+    "saving": "Saving…",
+    "update": "Update",
+    "publish": "Publish",
+    "removing": "Removing…",
+    "remove": "Remove",
+    "signIn": "Sign in",
+    "signInSuffix": "to post a standing challenge.",
+    "loadingChallengers": "Loading challengers…",
+    "emptyFiltered": "No one has posted a standing challenge for these topics yet.",
+    "empty": "No one has posted a standing challenge yet. Be the first!",
+    "loadMore": "Load more"
+  },
+  "lobbyEntryCard": {
+    "record": "{wins}W · {losses}L · {draws}D",
+    "ratingRecord": "{rating} rating · {record}",
+    "openAnyTopic": "Open to any topic.",
+    "edit": "Edit",
+    "challenge": "Challenge"
+  },
+  "create": {
+    "errors": {
+      "preload": "Could not preload source debate details. You can still fill it manually.",
+      "topic": "Topic must be 10–200 characters.",
+      "tags": "Select 1 to 3 tags to continue.",
+      "opening": "Opening argument must be {min}–{max} characters.",
+      "aiNote": "AI note must be at most {max} characters.",
+      "limit": "You already have 5 active debates.",
+      "userNotFound": "Could not find the challenged user.",
+      "notParticipant": "Only participants in the finished debate can start a rechallenge.",
+      "notFinished": "Rechallenge is only available after the debate finishes.",
+      "generic": "Something went wrong. Try again."
+    },
+    "aiChips": {
+      "brainstorm": {
+        "label": "Brainstorm",
+        "snippet": "Brainstormed counterpoints."
+      },
+      "outline": {
+        "label": "Outline",
+        "snippet": "Outlined argument structure."
+      },
+      "rewrite": {
+        "label": "Rewrite",
+        "snippet": "Rewrote for clarity."
+      },
+      "grammar": {
+        "label": "Grammar",
+        "snippet": "Fixed grammar and style."
+      },
+      "sources": {
+        "label": "Sources",
+        "snippet": "Suggested source directions."
+      }
+    },
+    "title": {
+      "rechallenge": "Start a rechallenge",
+      "challenge": "Challenge @{username}",
+      "new": "Start a new debate"
+    },
+    "subtitle": {
+      "rechallenge": "Rematch setup is prefilled from your finished debate.",
+      "challenge": "This debate is invite-only until they accept.",
+      "setup": "Frame the question, set the terms, and write the argument that earns a challenger.",
+      "opening": "This is Turn 1. Write something worth responding to."
+    },
+    "banners": {
+      "challenge": "You are creating an invite-only challenge for @{username}. While waiting, this debate stays private to both of you.",
+      "prefill": "Rechallenge mode is on. Setup fields are prefilled from the finished debate.",
+      "newTopic": "New-topic challenge mode is on. Your opponent is fixed from the finished debate.",
+      "limit": "You’ve reached the 5-active-debate limit. Finish or forfeit one to create another.",
+      "verify": "Email verification required for creating debates. Go to Settings to verify your email."
+    },
+    "steps": {
+      "setup": "Setup",
+      "opening": "Opening argument"
+    },
+    "setup": {
+      "title": "Debate setup",
+      "sideA": "Side A",
+      "topic": "Topic",
+      "topicPlaceholder": "e.g. Is X always preferable to Y, or does context determine the answer?",
+      "topicHelp": "10–200 characters. Clear, debatable, and neutral.",
+      "tags": "Tags",
+      "selected": "{count}/3 selected",
+      "tagLimit": "3 tags selected",
+      "searchTags": "Search tags...",
+      "noTags": "No matching tags.",
+      "timeMode": "Time mode",
+      "turnLimit": "Turn limit",
+      "turns": "{count} turns",
+      "context": "What you should know",
+      "contextPlaceholder": "Set the terms for your challenger -- your preferred pace, how you're defining key terms, and any background context they should know before diving in.",
+      "contextHelp": "Visible in the header as context for both debaters.",
+      "next": "Next"
+    },
+    "opening": {
+      "topic": "Topic",
+      "title": "Opening argument",
+      "placeholder": "The common view is that X is straightforwardly good, but this misses something important. The *actual* evidence points the other way -- when you look at the data, the effect is either negligible or reversed in most contexts.\n\nCritics will say Y, but **that argument assumes Z**, which hasn’t held up. As one study put it:\n\n> \"The correlation disappears entirely once you control for confounding variable W.\" [1]\n\nThe stronger case is that...\n\n[1] https://example.com/source",
+      "help": "{min}–{max} characters. Lead with a claim, then the reasoning behind it. Sources are welcome — plain text is fine.",
+      "aiAssisted": "I used AI assistance for this turn",
+      "aiNotePlaceholder": "Briefly describe how AI contributed — e.g. suggested sources, restructured a paragraph.",
+      "back": "Back to setup",
+      "creating": "Creating...",
+      "sendChallenge": "Send challenge",
+      "createDebate": "Create debate"
+    }
+  }
+}

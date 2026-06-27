@@ -1,0 +1,361 @@
+{
+  "debate": {
+    "turnNavigator": {
+      "jumpToTurn": "Jump to Turn {turn} ({side})",
+      "jumpToDiscussion": "Jump to discussion",
+      "discussion": "Discussion",
+      "collapseAll": "Collapse all",
+      "expandAll": "Expand all"
+    },
+    "reveal": {
+      "title": "Reveal your identity?",
+      "body": "You debated as <anonymousId></anonymousId>. Now that the debate has ended, you can choose to reveal your username — or stay anonymous. This is entirely up to you. If you don’t decide within 48 hours, your anonymity is preserved by default.",
+      "reveal": "Reveal username",
+      "stayAnonymous": "Stay anonymous"
+    },
+    "outcome": {
+      "expired": "Debate expired",
+      "sideA": "Side A",
+      "sideB": "Side B",
+      "draw": "Ended in a draw by mutual agreement",
+      "turnLimit": "Reached the turn limit — ended as a draw.",
+      "winsByConcession": " wins by concession",
+      "endedByConcession": "Ended by concession",
+      "winsByWalkover": " wins by walkover",
+      "endedByWalkover": "Ended by walkover",
+      "rating": "Rating: A {sideA} • B {sideB}"
+    },
+    "common": {
+      "somethingWrong": "Something went wrong.",
+      "emailVerificationRequired": "Email verification required",
+      "openSettings": "Open settings",
+      "you": "(You)",
+      "sideA": "Side A",
+      "sideB": "Side B",
+      "unknownSide": "Unknown side",
+      "anonymousFallbackSide": "Anonymous",
+      "anonymousFallbackA": "A",
+      "anonymousFallbackB": "B"
+    },
+    "discussion": {
+      "title": "Discussion ({count})",
+      "sort": {
+        "newest": "newest",
+        "top": "top"
+      },
+      "emptyTitle": "No discussion yet.",
+      "emptyDescription": "Be the first to share your thoughts.",
+      "lockedTitle": "Discussion locked",
+      "lockedDescription": "Threads close 7 days after the debate ends.",
+      "readOnlyTitle": "Discussion is read-only while hidden",
+      "readOnlyDescription": "You can view comments, but posting and voting are disabled until moderation restores this debate.",
+      "placeholder": "What shifted for you? What would you have argued differently?",
+      "postAsReflection": "Post as reflection",
+      "alreadyPosted": "(already posted)",
+      "posting": "Posting...",
+      "post": "Post",
+      "signInTitle": "Sign in to join the discussion",
+      "signInDescription": "You'll be able to comment and upvote.",
+      "signIn": "Sign in"
+    },
+    "actionsMenu": {
+      "drawProposed": "Your opponent has proposed a draw.",
+      "decline": "Decline",
+      "acceptDraw": "Accept draw",
+      "pendingDraw": "You proposed a draw. Waiting for your opponent to respond.",
+      "confirmConcede": "Concede the debate? Your opponent wins and your rating will reflect the outcome.",
+      "confirmResign": "Resign from the debate? Your seat will open for a replacement and you'll receive a small rating penalty.",
+      "cancel": "Cancel",
+      "concede": "Concede",
+      "resign": "Resign",
+      "actions": "Actions",
+      "proposeDraw": "Propose draw",
+      "loading": "..."
+    },
+    "turnCard": {
+      "turn": "Turn {number}",
+      "aiAssistedTitle": "AI-assisted turn",
+      "aiAssisted": "AI-assisted",
+      "reportTurn": "Report turn",
+      "previous": "Previous turn",
+      "next": "Next turn",
+      "expand": "Expand",
+      "collapse": "Collapse",
+      "aiNote": "AI note",
+      "flagged": "This content has been flagged for review."
+    },
+    "header": {
+      "back": "Back",
+      "contextTitle": "What You Should Know",
+      "participant": "You're in this",
+      "waitingChallenger": "Waiting for challenger...",
+      "limit": "Limit {limit}",
+      "turn": "Turn {turn}",
+      "timeRemaining": "Time remaining for current turn",
+      "expired": "Expired",
+      "upvote": "Upvote debate",
+      "report": "Report",
+      "reportDebate": "Report debate",
+      "moderate": "Moderate",
+      "moderateDebate": "Moderate debate",
+      "hideDebate": "Hide debate",
+      "restoreDebate": "Restore debate",
+      "follow": "Follow",
+      "following": "Following",
+      "followDebate": "Follow debate",
+      "unfollowDebate": "Unfollow debate",
+      "watching": "{count} watching"
+    },
+    "timeMode": {
+      "marathon": "Marathon",
+      "standard": "Standard",
+      "rapid": "Rapid",
+      "blitz": "Blitz"
+    },
+    "status": {
+      "waiting": "Waiting",
+      "active": "Active",
+      "pending_extension": "Pending extension",
+      "waiting_replacement": "Waiting replacement",
+      "finished": "Finished",
+      "expired": "Expired"
+    }
+  },
+  "debatePage": {
+    "errors": {
+      "hiddenByBlockTitle": "Debate unavailable.",
+      "hiddenByBlockDesc": "This debate is hidden by your safety settings.",
+      "manageBlocked": "Manage blocked users",
+      "exploreDebates": "Explore debates",
+      "notFoundTitle": "Debate not found.",
+      "notFoundDesc": "This debate may have been removed or the link may be invalid."
+    },
+    "flagged": {
+      "title": "This debate has been flagged for review.",
+      "description": "Moderators are reviewing this content."
+    },
+    "moderation": {
+      "hiddenTitle": "Hidden by moderation",
+      "adminViewDesc": "You can view this debate because your role has moderation access.",
+      "participantViewDesc": "You can still view your content, but this debate is read-only while hidden."
+    },
+    "join": {
+      "challengedToThis": "You were challenged to this debate.",
+      "waitingChallenger": "This debate is waiting for a challenger.",
+      "challengeActionDesc": "Accept to take Side B and start the match, or decline to close this challenge.",
+      "joinActionDesc": "Read Side A's opening argument above, then join as Side B to respond.",
+      "acceptChallenge": "Accept challenge",
+      "decline": "Decline",
+      "joining": "Joining...",
+      "joinAsSideB": "Join as Side B",
+      "working": "Working..."
+    },
+    "replacement": {
+      "openSeat": "Open Seat",
+      "resignedSideOpen": "A debater has resigned. Side {side} is open.",
+      "readAndTake": "Read the debate so far, then take the open seat to continue.",
+      "takeSeatAsSide": "Take this seat as Side {side}",
+      "opponentResigned": "Your opponent resigned. Waiting for a replacement...",
+      "resumeWhenJoined": "The debate will resume when a new debater takes the open seat."
+    },
+    "extension": {
+      "waitingOpponent": "You agreed to extend. Waiting for your opponent to respond...",
+      "waitingOpponentDesc": "If they accept, the debate continues for 5 more turns. If they decline, it ends as a draw.",
+      "limitReached": "Turn limit reached ({limit} turns). Continue for 5 more?",
+      "opponentAgreed": "Your opponent already agreed to extend.",
+      "bothMustAgree": "Both sides must agree. Declining ends the debate as a draw.",
+      "acceptExtension": "Accept (+5 turns)",
+      "declineDraw": "Decline (draw)",
+      "submitting": "Submitting...",
+      "voting": "Turn limit reached. Both sides are voting on whether to extend.",
+      "votingDesc": "If both agree, the debate continues for 5 more turns."
+    },
+    "creatorWaiting": {
+      "waitingForInvited": "Waiting for @{username} to respond to your challenge...",
+      "waitingForOpponent": "Waiting for your invited opponent to respond to your challenge...",
+      "waitingForChallenger": "Waiting for a challenger to join...",
+      "challengePrivate": "This challenge is private between the two of you until they accept.",
+      "openingLive": "Your opening argument is live. A challenger will read it before deciding to join.",
+      "wantSpecific": "Want a specific opponent? Invite them directly.",
+      "browseUsers": "Browse users to invite"
+    },
+    "active": {
+      "waitingForOpponent": "Waiting for <opponent></opponent> to respond...",
+      "spectatorCount": "{count, plural, =0 {0 spectators watching} one {# spectator watching} other {# spectators watching}}",
+      "newTurn": "New turn ↓"
+    },
+    "rechallenge": {
+      "title": "Rechallenge",
+      "description": "Pick how you want to challenge this opponent next.",
+      "buttonPrefill": "Rechallenge",
+      "buttonNewTopic": "Challenge with new topic",
+      "note": "Want a sharper rematch? Try arguing the opposite stance this time."
+    },
+    "invite": {
+      "title": "Invite a user",
+      "description": "Suggested from shared tags and recent debate activity. You can still search anyone by username.",
+      "placeholder": "Search by username",
+      "searching": "Searching users...",
+      "loadingRecommended": "Loading recommended users...",
+      "noMatches": "No matching users found.",
+      "noRecommendations": "No recommendations available yet.",
+      "stats": "Rating {rating} • {wins}W {losses}L {draws}D • {debates, plural, one {# debate} other {# debates}}",
+      "sending": "Sending...",
+      "invited": "Invited",
+      "invite": "Invite"
+    },
+    "events": {
+      "seatOpenedActor": "{actor} (Side {side}) has resigned. The seat is open.",
+      "seatOpened": "Side {side} has resigned. The seat is open.",
+      "replacementJoinedRevealed": "{name} ({actor}) has joined as Side {side}.",
+      "replacementJoinedActor": "{actor} has joined as Side {side}.",
+      "replacementJoined": "A new debater has joined as Side {side}.",
+      "concededWithWinner": "{conceder} has conceded. {winner} wins.",
+      "conceded": "{conceder} has conceded.",
+      "drawProposed": "Side {side} has proposed a draw.",
+      "drawDeclined": "Side {side} declined the draw.",
+      "drawAccepted": "Side {side} accepted the draw. The debate ended in a draw.",
+      "extensionProposedWithLimit": "Turn limit reached ({limit} turns). Both sides may agree to extend.",
+      "extensionProposed": "Turn limit reached. Both sides may agree to extend.",
+      "extensionAccepted": "Side {side} agreed to extend.",
+      "extensionDeclined": "Side {side} declined the extension. The debate ended in a draw.",
+      "walkoverWithWinner": "Side {side} failed to respond in time. Side {winner} wins by walkover.",
+      "walkover": "A walkover was recorded.",
+      "replacementExpiredWithWinner": "No replacement joined in time. Side {winner} wins by walkover.",
+      "replacementExpired": "No replacement joined in time.",
+      "extensionExpired": "Extension deadline expired. The debate ended in a draw.",
+      "systemUpdate": "System update"
+    }
+  },
+  "debateCard": {
+    "status": {
+      "waiting": "Waiting",
+      "active": "Active",
+      "pending_extension": "Extension pending",
+      "waiting_replacement": "Waiting replacement",
+      "finished": "Finished",
+      "expired": "Expired"
+    },
+    "timeMode": {
+      "marathon": "Marathon (7d)",
+      "standard": "Standard (48h)",
+      "rapid": "Rapid (12h)",
+      "blitz": "Blitz (2h)"
+    },
+    "sideA": "Side A",
+    "sideB": "Side B",
+    "youreInThis": "You're in this",
+    "vs": "vs",
+    "waitingForChallenger": "Waiting for challenger...",
+    "limit": "Limit {limit}",
+    "turn": "Turn {count}",
+    "upvote": "Upvote debate",
+    "comment": "Comment on debate",
+    "watching": "{count} watching",
+    "outcome": {
+      "concession": "{winner} wins (Concession)",
+      "concessionNoWinner": "Concession",
+      "draw": "Draw (Mutual Agreement)",
+      "turnLimit": "Draw (Turn limit)",
+      "walkover": "{winner} wins (Walkover)",
+      "walkoverNoWinner": "Walkover"
+    },
+    "report": {
+      "submitted": "Report submitted. Thanks for helping keep discussions safe.",
+      "alreadyReported": "You already reported this content.",
+      "rateLimit": "You have reached the report limit. Try again later.",
+      "ownContent": "You cannot report your own content.",
+      "failed": "Could not submit report."
+    }
+  },
+  "turnInput": {
+    "aiChips": {
+      "brainstorm": {
+        "label": "Brainstorm",
+        "snippet": "Used AI to brainstorm counterpoints."
+      },
+      "outline": {
+        "label": "Outline",
+        "snippet": "Used AI to outline the argument structure."
+      },
+      "rewrite": {
+        "label": "Rewrite",
+        "snippet": "Used AI to rewrite for clarity."
+      },
+      "grammar": {
+        "label": "Grammar",
+        "snippet": "Ran a grammar pass with AI assistance."
+      },
+      "sources": {
+        "label": "Sources",
+        "snippet": "Used AI to suggest source directions."
+      }
+    },
+    "aiNotePlaceholder": "Describe how you used AI for this turn — which parts, and how.",
+    "confirmSubmitText": "Once submitted, this turn cannot be edited. Continue?",
+    "aiAssisted": "AI-assisted",
+    "submitTurn": "Submit turn",
+    "turnTitle": "Turn {number}",
+    "earlierTurn": "Earlier turn",
+    "laterTurn": "Later turn",
+    "hideTurns": "Hide turns",
+    "showTurns": "Show turns",
+    "exitZenMode": "Exit Zen Mode (Esc)",
+    "textareaPlaceholder": "The evidence suggests the opposite — studies show X [1]. The core issue here is...",
+    "zenModeTitle": "Zen Mode — distraction-free writing",
+    "guidelines": "{min}–{max} characters. Once submitted, this turn cannot be edited."
+  },
+  "commentCard": {
+    "errorDefault": "Something went wrong.",
+    "deleteConfirm": "Delete this comment? This cannot be undone.",
+    "unknownAuthor": "Unknown",
+    "postMatchReflection": "Post-Match Reflection",
+    "saving": "Saving...",
+    "hiddenModOnly": "Hidden by moderation. Visible to moderators/admins only.",
+    "hiddenAuthorAndModOnly": "Hidden by moderation. Visible to you and moderators/admins only.",
+    "commentDeletedText": "This comment has been deleted.",
+    "ariaUpvote": "Upvote comment",
+    "reply": "Reply",
+    "hide": "Hide",
+    "show": "Show",
+    "repliesCount": "{count, plural, one {# reply} other {# replies}}",
+    "edit": "Edit",
+    "deleting": "Deleting...",
+    "delete": "Delete",
+    "report": "Report",
+    "ariaModerate": "Moderate comment",
+    "moderate": "Moderate",
+    "hideComment": "Hide comment",
+    "restoreComment": "Restore comment",
+    "replyPlaceholder": "Add a reply...",
+    "posting": "Posting...",
+    "anonymousDebater": "Anonymous",
+    "deleteConfirmation": "Delete this comment? This cannot be undone."
+  },
+  "reportDialog": {
+    "title": {
+      "debate": "Report Debate",
+      "turn": "Report Turn",
+      "comment": "Report Comment",
+      "content": "Report Content"
+    },
+    "description": "Reports are shown to moderators for enforcement. Moderators review reports and may hide violating content.",
+    "reason": "Reason",
+    "details": "Details (optional)",
+    "detailsPlaceholder": "Briefly describe the issue for our moderation team.",
+    "errors": {
+      "detailsTooLong": "Details must be at most 500 characters.",
+      "generic": "Something went wrong."
+    },
+    "submit": "Submit report",
+    "submitting": "Submitting...",
+    "reasons": {
+      "hate": "Hate",
+      "harassment": "Harassment",
+      "spam": "Spam",
+      "off_topic": "Off-topic",
+      "illegal": "Illegal",
+      "other": "Other"
+    }
+  }
+}

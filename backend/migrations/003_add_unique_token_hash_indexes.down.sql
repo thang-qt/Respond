@@ -1,0 +1,3 @@
+DROP INDEX idx_email_verification_tokens_token_hash;
+DROP INDEX idx_password_reset_tokens_token_hash;
+DROP INDEX idx_refresh_tokens_token_hash;

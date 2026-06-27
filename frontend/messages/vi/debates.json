@@ -1,0 +1,361 @@
+{
+  "debate": {
+    "turnNavigator": {
+      "jumpToTurn": "Chuyển đến lượt {turn} ({side})",
+      "jumpToDiscussion": "Chuyển đến thảo luận",
+      "discussion": "Thảo luận",
+      "collapseAll": "Thu gọn tất cả",
+      "expandAll": "Mở rộng tất cả"
+    },
+    "reveal": {
+      "title": "Tiết lộ danh tính?",
+      "body": "Bạn đã tranh luận với tên <anonymousId></anonymousId>. Khi tranh luận kết thúc, bạn có thể chọn tiết lộ tên người dùng — hoặc giữ ẩn danh. Quyết định hoàn toàn thuộc về bạn. Nếu bạn không quyết định trong 48 giờ, danh tính của bạn sẽ mặc định được giữ ẩn danh.",
+      "reveal": "Tiết lộ tên người dùng",
+      "stayAnonymous": "Giữ ẩn danh"
+    },
+    "outcome": {
+      "expired": "Tranh luận đã hết hạn",
+      "sideA": "Bên A",
+      "sideB": "Bên B",
+      "draw": "Kết thúc hòa theo đồng thuận",
+      "turnLimit": "Đã đạt giới hạn lượt — kết thúc hòa.",
+      "winsByConcession": " thắng do nhượng bộ",
+      "endedByConcession": "Kết thúc do nhượng bộ",
+      "winsByWalkover": " thắng do bỏ cuộc",
+      "endedByWalkover": "Kết thúc do bỏ cuộc",
+      "rating": "Điểm: A {sideA} • B {sideB}"
+    },
+    "common": {
+      "somethingWrong": "Đã xảy ra lỗi.",
+      "emailVerificationRequired": "Cần xác minh email",
+      "openSettings": "Mở cài đặt",
+      "you": "(Bạn)",
+      "sideA": "Bên A",
+      "sideB": "Bên B",
+      "unknownSide": "Bên không xác định",
+      "anonymousFallbackSide": "Ẩn danh",
+      "anonymousFallbackA": "A",
+      "anonymousFallbackB": "B"
+    },
+    "discussion": {
+      "title": "Thảo luận ({count})",
+      "sort": {
+        "newest": "mới nhất",
+        "top": "hàng đầu"
+      },
+      "emptyTitle": "Chưa có thảo luận.",
+      "emptyDescription": "Hãy là người đầu tiên chia sẻ suy nghĩ.",
+      "lockedTitle": "Thảo luận đã khóa",
+      "lockedDescription": "Luồng thảo luận đóng sau 7 ngày kể từ khi tranh luận kết thúc.",
+      "readOnlyTitle": "Thảo luận chỉ đọc khi bị ẩn",
+      "readOnlyDescription": "Bạn có thể xem bình luận, nhưng đăng và bỏ phiếu bị tắt cho đến khi kiểm duyệt khôi phục tranh luận này.",
+      "placeholder": "Điều gì đã thay đổi suy nghĩ của bạn? Bạn sẽ lập luận khác đi như thế nào?",
+      "postAsReflection": "Đăng như suy ngẫm",
+      "alreadyPosted": "(đã đăng)",
+      "posting": "Đang đăng...",
+      "post": "Đăng",
+      "signInTitle": "Đăng nhập để tham gia thảo luận",
+      "signInDescription": "Bạn sẽ có thể bình luận và ủng hộ.",
+      "signIn": "Đăng nhập"
+    },
+    "actionsMenu": {
+      "drawProposed": "Đối thủ của bạn đã đề xuất hòa.",
+      "decline": "Từ chối",
+      "acceptDraw": "Chấp nhận hòa",
+      "pendingDraw": "Bạn đã đề xuất hòa. Đang chờ đối thủ phản hồi.",
+      "confirmConcede": "Chịu thua tranh luận? Đối thủ của bạn thắng và điểm của bạn sẽ phản ánh kết quả.",
+      "confirmResign": "Rút khỏi tranh luận? Chỗ của bạn sẽ mở cho người thay thế và bạn sẽ nhận một mức phạt điểm nhỏ.",
+      "cancel": "Hủy",
+      "concede": "Chịu thua",
+      "resign": "Rút lui",
+      "actions": "Hành động",
+      "proposeDraw": "Đề xuất hòa",
+      "loading": "..."
+    },
+    "turnCard": {
+      "turn": "Lượt {number}",
+      "aiAssistedTitle": "Lượt có hỗ trợ AI",
+      "aiAssisted": "AI hỗ trợ",
+      "reportTurn": "Báo cáo lượt",
+      "previous": "Lượt trước",
+      "next": "Lượt sau",
+      "expand": "Mở rộng",
+      "collapse": "Thu gọn",
+      "aiNote": "Ghi chú AI",
+      "flagged": "Nội dung này đã bị gắn cờ để xem xét."
+    },
+    "header": {
+      "back": "Quay lại",
+      "contextTitle": "Điều bạn nên biết",
+      "participant": "Bạn tham gia tranh luận này",
+      "waitingChallenger": "Đang chờ người thách đấu...",
+      "limit": "Giới hạn {limit}",
+      "turn": "Lượt {turn}",
+      "timeRemaining": "Thời gian còn lại cho lượt hiện tại",
+      "expired": "Hết hạn",
+      "upvote": "Ủng hộ tranh luận",
+      "report": "Báo cáo",
+      "reportDebate": "Báo cáo tranh luận",
+      "moderate": "Kiểm duyệt",
+      "moderateDebate": "Kiểm duyệt tranh luận",
+      "hideDebate": "Ẩn tranh luận",
+      "restoreDebate": "Khôi phục tranh luận",
+      "follow": "Theo dõi",
+      "following": "Đang theo dõi",
+      "followDebate": "Theo dõi tranh luận",
+      "unfollowDebate": "Bỏ theo dõi tranh luận",
+      "watching": "{count} đang xem"
+    },
+    "timeMode": {
+      "marathon": "Marathon",
+      "standard": "Tiêu chuẩn",
+      "rapid": "Nhanh",
+      "blitz": "Chớp nhoáng"
+    },
+    "status": {
+      "waiting": "Đang chờ",
+      "active": "Đang diễn ra",
+      "pending_extension": "Chờ gia hạn",
+      "waiting_replacement": "Chờ thay thế",
+      "finished": "Đã kết thúc",
+      "expired": "Đã hết hạn"
+    }
+  },
+  "debatePage": {
+    "errors": {
+      "hiddenByBlockTitle": "Cuộc tranh luận không khả dụng.",
+      "hiddenByBlockDesc": "Cuộc tranh luận này đã bị ẩn bởi cài đặt an toàn của bạn.",
+      "manageBlocked": "Quản lý người dùng bị chặn",
+      "exploreDebates": "Khám phá các cuộc tranh luận",
+      "notFoundTitle": "Không tìm thấy cuộc tranh luận.",
+      "notFoundDesc": "Cuộc tranh luận này có thể đã bị xóa hoặc liên kết không hợp lệ."
+    },
+    "flagged": {
+      "title": "Cuộc tranh luận này đã bị gắn cờ để xem xét.",
+      "description": "Người điều hành đang xem xét nội dung này."
+    },
+    "moderation": {
+      "hiddenTitle": "Bị ẩn bởi kiểm duyệt",
+      "adminViewDesc": "Bạn có thể xem cuộc tranh luận này vì vai trò của bạn có quyền kiểm duyệt.",
+      "participantViewDesc": "Bạn vẫn có thể xem nội dung của mình, nhưng cuộc tranh luận này ở chế độ chỉ đọc khi bị ẩn."
+    },
+    "join": {
+      "challengedToThis": "Bạn đã bị thách đấu trong cuộc tranh luận này.",
+      "waitingChallenger": "Cuộc tranh luận này đang chờ người thách đấu.",
+      "challengeActionDesc": "Chấp nhận để nhận Bên B và bắt đầu trận đấu, hoặc từ chối để đóng lời thách đấu này.",
+      "joinActionDesc": "Đọc lập luận mở đầu của Bên A ở trên, sau đó tham gia với tư cách Bên B để phản hồi.",
+      "acceptChallenge": "Chấp nhận thách đấu",
+      "decline": "Từ chối",
+      "joining": "Đang tham gia...",
+      "joinAsSideB": "Tham gia với tư cách Bên B",
+      "working": "Đang xử lý..."
+    },
+    "replacement": {
+      "openSeat": "Ghế trống",
+      "resignedSideOpen": "Một người tranh luận đã rút lui. Bên {side} đang trống.",
+      "readAndTake": "Đọc cuộc tranh luận cho đến nay, sau đó nhận ghế trống để tiếp tục.",
+      "takeSeatAsSide": "Nhận ghế này với tư cách Bên {side}",
+      "opponentResigned": "Đối thủ của bạn đã rút lui. Đang chờ người thay thế...",
+      "resumeWhenJoined": "Cuộc tranh luận sẽ tiếp tục khi có người tranh luận mới nhận ghế trống."
+    },
+    "extension": {
+      "waitingOpponent": "Bạn đã đồng ý gia hạn. Đang chờ đối thủ phản hồi...",
+      "waitingOpponentDesc": "Nếu họ chấp nhận, cuộc tranh luận sẽ tiếp tục thêm 5 lượt. Nếu họ từ chối, trận đấu kết thúc với kết quả hòa.",
+      "limitReached": "Đã đạt giới hạn lượt ({limit} lượt). Tiếp tục thêm 5 lượt nữa?",
+      "opponentAgreed": "Đối thủ của bạn đã đồng ý gia hạn.",
+      "bothMustAgree": "Cả hai bên phải đồng ý. Từ chối sẽ kết thúc cuộc tranh luận với kết quả hòa.",
+      "acceptExtension": "Chấp nhận (+5 lượt)",
+      "declineDraw": "Từ chối (hòa)",
+      "submitting": "Đang gửi...",
+      "voting": "Đã đạt giới hạn lượt. Cả hai bên đang bỏ phiếu về việc có gia hạn hay không.",
+      "votingDesc": "Nếu cả hai cùng đồng ý, cuộc tranh luận sẽ tiếp tục thêm 5 lượt."
+    },
+    "creatorWaiting": {
+      "waitingForInvited": "Đang chờ @{username} phản hồi lời thách đấu của bạn...",
+      "waitingForOpponent": "Đang chờ đối thủ được mời phản hồi lời thách đấu của bạn...",
+      "waitingForChallenger": "Đang chờ người thách đấu tham gia...",
+      "challengePrivate": "Lời thách đấu này là riêng tư giữa hai bạn cho đến khi họ chấp nhận.",
+      "openingLive": "Lập luận mở đầu của bạn đã trực tuyến. Người thách đấu sẽ đọc nó trước khi quyết định tham gia.",
+      "wantSpecific": "Muốn mời một đối thủ cụ thể? Hãy mời họ trực tiếp.",
+      "browseUsers": "Duyệt tìm người dùng để mời"
+    },
+    "active": {
+      "waitingForOpponent": "Đang chờ <opponent></opponent> phản hồi...",
+      "spectatorCount": "{count, plural, =0 {0 người đang xem} one {# người đang xem} other {# người đang xem}}",
+      "newTurn": "Lượt mới ↓"
+    },
+    "rechallenge": {
+      "title": "Thách đấu lại",
+      "description": "Chọn cách bạn muốn thách đấu đối thủ này tiếp theo.",
+      "buttonPrefill": "Thách đấu lại",
+      "buttonNewTopic": "Thách đấu với chủ đề mới",
+      "note": "Muốn một trận tái đấu kịch tính hơn? Hãy thử lập luận ở khía cạnh ngược lại lần này."
+    },
+    "invite": {
+      "title": "Mời người dùng",
+      "description": "Được đề xuất từ các thẻ chung và hoạt động tranh luận gần đây. Bạn vẫn có thể tìm kiếm bất kỳ ai theo tên người dùng.",
+      "placeholder": "Tìm kiếm theo tên người dùng",
+      "searching": "Đang tìm kiếm người dùng...",
+      "loadingRecommended": "Đang tải người dùng được đề xuất...",
+      "noMatches": "Không tìm thấy người dùng phù hợp.",
+      "noRecommendations": "Chưa có đề xuất nào khả dụng.",
+      "stats": "Hệ số {rating} • {wins}T {losses}B {draws}H • {debates, plural, one {# cuộc tranh luận} other {# cuộc tranh luận}}",
+      "sending": "Đang gửi...",
+      "invited": "Đã mời",
+      "invite": "Mời"
+    },
+    "events": {
+      "seatOpenedActor": "{actor} (Bên {side}) đã rút lui. Ghế đang trống.",
+      "seatOpened": "Bên {side} đã rút lui. Ghế đang trống.",
+      "replacementJoinedRevealed": "{name} ({actor}) đã tham gia với tư cách Bên {side}.",
+      "replacementJoinedActor": "{actor} đã tham gia với tư cách Bên {side}.",
+      "replacementJoined": "Một người tranh luận mới đã tham gia với tư cách Bên {side}.",
+      "concededWithWinner": "{conceder} đã nhận thua. {winner} thắng.",
+      "conceded": "{conceder} đã nhận thua.",
+      "drawProposed": "Bên {side} đã đề xuất hòa.",
+      "drawDeclined": "Bên {side} từ chối hòa.",
+      "drawAccepted": "Bên {side} đồng ý hòa. Cuộc tranh luận kết thúc với kết quả hòa.",
+      "extensionProposedWithLimit": "Đã đạt giới hạn lượt ({limit} lượt). Cả hai bên có thể đồng ý gia hạn.",
+      "extensionProposed": "Đã đạt giới hạn lượt. Cả hai bên có thể đồng ý gia hạn.",
+      "extensionAccepted": "Bên {side} đồng ý gia hạn.",
+      "extensionDeclined": "Bên {side} từ chối gia hạn. Cuộc tranh luận kết thúc với kết quả hòa.",
+      "walkoverWithWinner": "Bên {side} đã không phản hồi kịp thời. Bên {winner} thắng do đối thủ bỏ cuộc.",
+      "walkover": "Đã ghi nhận kết quả bỏ cuộc.",
+      "replacementExpiredWithWinner": "Không có người thay thế tham gia kịp thời. Bên {winner} thắng do đối thủ bỏ cuộc.",
+      "replacementExpired": "Không có người thay thế tham gia kịp thời.",
+      "extensionExpired": "Hạn chót gia hạn đã hết. Cuộc tranh luận kết thúc với kết quả hòa.",
+      "systemUpdate": "Cập nhật hệ thống"
+    }
+  },
+  "debateCard": {
+    "status": {
+      "waiting": "Đang chờ",
+      "active": "Đang diễn ra",
+      "pending_extension": "Đang chờ gia hạn",
+      "waiting_replacement": "Đang chờ người thay thế",
+      "finished": "Đã kết thúc",
+      "expired": "Đã hết hạn"
+    },
+    "timeMode": {
+      "marathon": "Marathon (7 ngày)",
+      "standard": "Tiêu chuẩn (48 giờ)",
+      "rapid": "Nhanh (12 giờ)",
+      "blitz": "Chớp nhoáng (2 giờ)"
+    },
+    "sideA": "Bên A",
+    "sideB": "Bên B",
+    "youreInThis": "Bạn đang tham gia",
+    "vs": "đấu với",
+    "waitingForChallenger": "Đang chờ người thách đấu...",
+    "limit": "Giới hạn {limit}",
+    "turn": "Lượt {count}",
+    "upvote": "Ủng hộ tranh luận",
+    "comment": "Bình luận về tranh luận",
+    "watching": "{count} đang xem",
+    "outcome": {
+      "concession": "{winner} thắng (nhượng bộ)",
+      "concessionNoWinner": "Nhượng bộ",
+      "draw": "Hòa (đồng thuận)",
+      "turnLimit": "Hòa (hết lượt)",
+      "walkover": "{winner} thắng (bỏ cuộc)",
+      "walkoverNoWinner": "Bỏ cuộc"
+    },
+    "report": {
+      "submitted": "Đã gửi báo cáo. Cảm ơn bạn đã giúp giữ thảo luận an toàn.",
+      "alreadyReported": "Bạn đã báo cáo nội dung này rồi.",
+      "rateLimit": "Bạn đã đạt giới hạn báo cáo. Hãy thử lại sau.",
+      "ownContent": "Bạn không thể báo cáo nội dung của chính mình.",
+      "failed": "Không thể gửi báo cáo."
+    }
+  },
+  "turnInput": {
+    "aiChips": {
+      "brainstorm": {
+        "label": "Động não",
+        "snippet": "Đã sử dụng AI để động não các lập luận phản bác."
+      },
+      "outline": {
+        "label": "Dàn ý",
+        "snippet": "Đã sử dụng AI để lập dàn ý cho cấu trúc lập luận."
+      },
+      "rewrite": {
+        "label": "Viết lại",
+        "snippet": "Đã sử dụng AI để viết lại cho rõ ràng hơn."
+      },
+      "grammar": {
+        "label": "Ngữ pháp",
+        "snippet": "Đã chạy kiểm tra ngữ pháp với sự trợ giúp của AI."
+      },
+      "sources": {
+        "label": "Nguồn tham khảo",
+        "snippet": "Đã sử dụng AI để gợi ý các hướng nguồn tham khảo."
+      }
+    },
+    "aiNotePlaceholder": "Mô tả cách bạn đã sử dụng AI cho lượt này — những phần nào và như thế nào.",
+    "confirmSubmitText": "Sau khi gửi, lượt này sẽ không thể chỉnh sửa. Tiếp tục?",
+    "aiAssisted": "Có hỗ trợ bởi AI",
+    "submitTurn": "Gửi lượt",
+    "turnTitle": "Lượt {number}",
+    "earlierTurn": "Lượt trước",
+    "laterTurn": "Lượt sau",
+    "hideTurns": "Ẩn các lượt",
+    "showTurns": "Hiện các lượt",
+    "exitZenMode": "Thoát chế độ Zen (Esc)",
+    "textareaPlaceholder": "Bằng chứng cho thấy điều ngược lại — các nghiên cứu chỉ ra X [1]. Vấn đề cốt lõi ở đây là...",
+    "zenModeTitle": "Chế độ Zen — viết không bị phân tâm",
+    "guidelines": "{min}–{max} ký tự. Sau khi gửi, lượt này sẽ không thể chỉnh sửa."
+  },
+  "commentCard": {
+    "errorDefault": "Đã xảy ra lỗi.",
+    "deleteConfirm": "Xóa bình luận này? Thao tác này không thể hoàn tác.",
+    "unknownAuthor": "Không rõ",
+    "postMatchReflection": "Suy ngẫm sau trận đấu",
+    "saving": "Đang lưu...",
+    "hiddenModOnly": "Bị ẩn bởi kiểm duyệt. Chỉ hiển thị với kiểm duyệt viên/quản trị viên.",
+    "hiddenAuthorAndModOnly": "Bị ẩn bởi kiểm duyệt. Chỉ hiển thị với bạn và kiểm duyệt viên/quản trị viên.",
+    "commentDeletedText": "Bình luận này đã bị xóa.",
+    "ariaUpvote": "Thích bình luận",
+    "reply": "Trả lời",
+    "hide": "Ẩn",
+    "show": "Hiện",
+    "repliesCount": "{count, plural, other {# phản hồi}}",
+    "edit": "Chỉnh sửa",
+    "deleting": "Đang xóa...",
+    "delete": "Xóa",
+    "report": "Báo cáo",
+    "ariaModerate": "Kiểm duyệt bình luận",
+    "moderate": "Kiểm duyệt",
+    "hideComment": "Ẩn bình luận",
+    "restoreComment": "Khôi phục bình luận",
+    "replyPlaceholder": "Thêm trả lời...",
+    "posting": "Đang đăng...",
+    "anonymousDebater": "Ẩn danh",
+    "deleteConfirmation": "Xóa bình luận này? Không thể hoàn tác."
+  },
+  "reportDialog": {
+    "title": {
+      "debate": "Báo cáo tranh luận",
+      "turn": "Báo cáo lượt",
+      "comment": "Báo cáo bình luận",
+      "content": "Báo cáo nội dung"
+    },
+    "description": "Báo cáo sẽ được gửi cho kiểm duyệt viên để xử lý. Kiểm duyệt viên xem xét báo cáo và có thể ẩn nội dung vi phạm.",
+    "reason": "Lý do",
+    "details": "Chi tiết (không bắt buộc)",
+    "detailsPlaceholder": "Mô tả ngắn gọn vấn đề cho đội ngũ kiểm duyệt.",
+    "errors": {
+      "detailsTooLong": "Chi tiết tối đa 500 ký tự.",
+      "generic": "Đã xảy ra lỗi."
+    },
+    "submit": "Gửi báo cáo",
+    "submitting": "Đang gửi...",
+    "reasons": {
+      "hate": "Thù ghét",
+      "harassment": "Quấy rối",
+      "spam": "Spam",
+      "off_topic": "Lạc đề",
+      "illegal": "Bất hợp pháp",
+      "other": "Khác"
+    }
+  }
+}
